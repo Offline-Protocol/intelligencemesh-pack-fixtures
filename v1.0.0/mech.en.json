@@ -1,51 +1,67 @@
 {
   "packId": "mech",
   "packVersion": "v1.0.0",
-  "name": "[TEST FIXTURE] Mechanical & Repair",
+  "name": "Mechanical & Repair",
   "locale": "en",
-  "publishedAt": "2026-05-25T00:00:00Z",
-  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — placeholder content, not for production. Real authoring will replace this with cited content.",
-  "license": "PLACEHOLDER — not for production use",
+  "publishedAt": "2026-05-26T00:00:00Z",
+  "sourceAttribution": "Compiled from US DOE energy.gov, USDA extension service publications, CPSC public guidance, and public-domain household-repair references. NOT a substitute for a qualified electrician, plumber, or utility technician — gas, electrical, and gas-appliance work especially.",
+  "license": "CC-BY-4.0 (compilation); source citations carry their own public-domain license",
   "guides": [
     {
       "id": "mech-bike-flat",
-      "title": "Fixing a bicycle flat tire",
+      "title": "Bicycle flat tire",
       "category": "repair",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nRemove the wheel. Use tire levers to unseat one side of the tire. Pull the tube out, inflate it slightly, and listen or feel for the leak. Inspect the inside of the tire for whatever caused the puncture — leaving it in will puncture the patch.\n\nPatch: rough the area with sandpaper, apply rubber cement, wait until tacky, press the patch on firmly for 1 minute. Or replace the tube entirely. Reseat the tire carefully (no pinching the tube), inflate, remount.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "Sheldon Brown bicycle repair reference (publicly archived) + general bicycle mechanics best-practice, retrieved 2026-05-26.",
+      "content": "1. Remove the wheel. If the rear wheel, shift to the smallest cog first.\n2. Deflate fully (press the valve).\n3. Use tire levers to unseat one side of the tire from the rim. Two levers, work apart.\n4. Pull the tube out.\n5. Find the leak: inflate the tube slightly and listen, or pass it through water and watch for bubbles.\n6. INSPECT THE TIRE — inside and outside — for the cause. Glass, thorn, staple. Leaving it in punctures the patch.\n7. Patch: rough the area with sandpaper, apply rubber cement, wait until tacky (~30 sec), press the patch on firmly for 1 minute. Or replace the tube — more reliable on the road.\n8. Lightly inflate the tube so it holds its shape. Tuck into the tire.\n9. Reseat the tire onto the rim, working both sides — do NOT pinch the tube against the rim (a snake-bite puncture).\n10. Inflate to recommended pressure (printed on the tire sidewall).\n\nCarry a spare tube + patch kit + tire levers + a pump."
     },
     {
       "id": "mech-generator-co",
-      "title": "Generator safety — carbon monoxide",
+      "title": "Generator safety — CO is the #1 killer",
       "category": "repair",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nNEVER run a generator indoors, in a garage (even with the door open), or within 20 feet of any window, door, or vent. Carbon monoxide is colorless and odorless. It kills fast.\n\nInstall battery CO detectors on every level of the home if you use a generator regularly. If anyone feels dizzy, nauseated, or headachy near a running generator, get outside into fresh air immediately and call emergency services.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "CPSC Carbon Monoxide Hazards + CDC CO poisoning prevention, retrieved 2026-05-26.",
+      "content": "NEVER run a portable generator:\n• Indoors\n• In a basement, crawl space, or shed\n• In an attached garage (even with the door open)\n• Within 20 feet of any window, door, or vent\n\nCarbon monoxide is colorless and odorless. It kills fast. A single backup generator in the wrong place has killed multi-person families overnight.\n\nPlace the generator outside in a dry covered area (a small tarp on poles is fine), at least 20 feet from the house, pointed AWAY from windows.\n\nInstall battery-backed CO detectors on every level of the home — they save lives. If anyone feels headachy, dizzy, nauseated, or unusually drowsy near a running generator, get outside into fresh air immediately and call your emergency number.\n\nDO NOT plug a generator into a wall outlet (\"backfeeding\") — it can electrocute utility workers restoring power. Use only properly installed transfer switches, or run extension cords directly from the generator to specific appliances."
     },
     {
-      "id": "mech-gas-leak",
-      "title": "Suspected gas leak",
+      "id": "mech-generator-start",
+      "title": "Small generator won't start",
       "category": "repair",
-      "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nIf you smell gas (rotten eggs):\n\n1. Do NOT use any electrical switch, phone, lighter, match, or anything that sparks. Even turning a light off can ignite gas.\n2. Open windows and doors if you can do so on the way out — but leaving is the priority.\n3. Get everyone outside, away from the building.\n4. From a safe distance, call your gas utility's emergency number and 911.\n5. Do not re-enter until utility staff clear the building.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "tier": "extended",
+      "sourceRef": "US Navy/Army small-engine technical manuals (public domain) + EPA small-engine maintenance, retrieved 2026-05-26.",
+      "content": "Most won't-start issues come down to three things: fuel, spark, air.\n\nFuel:\n• Is the fuel valve open?\n• Is there fresh gas in the tank? Gas more than 6 months old without stabilizer gums up the carb. Drain and refill with fresh gas + stabilizer.\n• Is the choke set correctly? Cold start = closed/full choke; warm start = open.\n\nSpark:\n• Pull the spark plug (use the right socket). Inspect — wet, fouled, cracked, or worn electrode = replace.\n• Reinstall a clean plug and try.\n\nAir:\n• Check the air filter. If it's choked with dust, the engine starves. Replace or clean per the manual.\n\nOther:\n• Low oil shutoff is a common stop on modern generators. Check the dipstick.\n• If the recoil pulls but feels limp, the rope or spring may be broken.\n\nIf none of these work, take it to a small-engine shop. Don't try to disassemble the carb on your kitchen table during an outage — wait for daylight + a service tech."
     },
     {
       "id": "mech-water-shutoff",
       "title": "Main water shut-off",
       "category": "repair",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nKnow where your main shut-off is BEFORE you need it. Common locations: where the water line enters the home (basement, crawl space, or exterior wall), in a meter box near the curb, or under the front of the house.\n\nMost residential valves are quarter-turn (lever 90 degrees off) or gate valves (round handle turned clockwise until tight). Test it once a year; old valves seize. If you can't shut off water during a leak, the gas-meter side of the home will have a master shutoff at the meter — a wrench will turn it 90 degrees off.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "EPA WaterSense + general plumbing best practice, retrieved 2026-05-26.",
+      "content": "KNOW WHERE YOUR MAIN SHUTOFF IS BEFORE YOU NEED IT. Walk to it now. Test that the valve turns.\n\nCommon locations:\n• Where the water line enters the home — usually basement, crawl space, or against an outside wall.\n• In a meter box near the curb (you'll need a meter key — a long T-shaped wrench).\n• Under the front of the house (slab construction).\n\nValve types:\n• Quarter-turn ball valve: lever; 90 degrees off the line = closed.\n• Gate valve: round handle; turn clockwise until tight to close. Old gate valves often seize — test annually.\n\nTo stop a leak fast:\n• Localized leak (under a sink, behind a toilet): use the local stop valve under that fixture.\n• Whole-home leak (burst pipe, water heater rupture): use the main.\n• Outdoor leak: use the meter shutoff at the curb.\n\nAfter shutting off, open the lowest faucet in the house to drain remaining pressure. Schedule the repair before turning water back on."
+    },
+    {
+      "id": "mech-frozen-pipes",
+      "title": "Frozen pipes — prevent and thaw",
+      "category": "repair",
+      "tier": "extended",
+      "sourceRef": "American Red Cross frozen-pipe guidance (publicly published) + DOE home-weatherization references, retrieved 2026-05-26.",
+      "content": "Prevention:\n• When temperatures drop below freezing for hours, let faucets DRIP slightly on exposed pipes (especially against outside walls). Moving water resists freezing.\n• Open cabinet doors under sinks on exterior walls to let house heat reach the pipes.\n• Keep the thermostat above 55°F (13°C) even if you're away.\n• Insulate pipes in unheated areas (foam tubes, heat tape).\n• Disconnect garden hoses, drain outdoor faucets.\n\nThawing a frozen pipe:\n• Open the faucet first — when water starts flowing, you'll see it.\n• Apply heat to the section nearest the faucet, working back toward the cold spot.\n• Use a hair dryer, hot rag wrapped around the pipe, heating pad, or space heater (NOT open flame, NOT propane torch — fire risk and pipe damage).\n• Be patient. Thawing too fast can split the pipe.\n• If you can't find the frozen section or it doesn't thaw, call a plumber.\n\nIf a pipe burst: shut off the main water valve immediately. Open the lowest faucet. Call a plumber."
     },
     {
       "id": "mech-breaker",
       "title": "Resetting a tripped breaker",
       "category": "repair",
       "tier": "extended",
-      "content": "[TEST FIXTURE — placeholder.]\n\nA tripped breaker sits in the middle position between ON and OFF. To reset, push it FULLY to OFF first, then back to ON. Listen for a snap.\n\nIf the same breaker trips repeatedly, the circuit is overloaded or there is a short. Unplug appliances on that circuit and try one at a time. If it trips with nothing plugged in, call an electrician — there is a wiring problem. Do not bypass or replace a breaker with a larger amperage rating; that risks fire.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "DOE Energy Saver + NFPA electrical safety basics, retrieved 2026-05-26.",
+      "content": "A tripped breaker sits in the middle position between ON and OFF.\n\nTo reset:\n1. Unplug whatever was running on that circuit (vacuum, hair dryer, etc.) so you don't immediately re-trip.\n2. Push the breaker FULLY to OFF first. You'll feel a click.\n3. Then push it back to ON.\n\nIf it trips again immediately, the circuit has a SHORT — wires touching where they shouldn't. Unplug everything and call an electrician.\n\nIf it trips again only when a specific appliance is plugged in, that appliance is faulty (or the circuit is overloaded by it). Use a different circuit; consider replacing the appliance.\n\nNEVER:\n• Bypass or jumper a breaker.\n• Replace a 15A breaker with a 20A or 30A to make it 'stop tripping.' The breaker size matches the wire gauge in the wall — a larger breaker can melt the wires and cause fire.\n• Work in a wet panel.\n• Open the main panel cover unless you're trained.\n\nFor anything beyond \"unplug, reset breaker, plug in again,\" call a qualified electrician."
+    },
+    {
+      "id": "mech-gas-leak",
+      "title": "Suspected gas leak — leave first, troubleshoot never",
+      "category": "repair",
+      "tier": "core",
+      "sourceRef": "CPSC + American Gas Association public-safety guidance, retrieved 2026-05-26.",
+      "content": "If you smell gas (rotten eggs — utilities add the smell), or hear a hissing near a gas appliance:\n\n1. Do NOT use any electrical switch, phone, lighter, match, doorbell, or anything that can spark. Even turning a light OFF can ignite gas.\n2. If you can do so on the way out, open windows and doors — but LEAVING is the priority.\n3. Get everyone outside, away from the building. Take pets if quick to do.\n4. From a safe distance (across the street or further), call your gas utility's emergency line AND your local emergency number.\n5. Do not re-enter until utility staff have cleared the building.\n\nNEVER:\n• Try to locate the leak yourself with a flame.\n• Restart the appliance to see if it stops.\n• Use your phone inside the building — go outside first.\n\nThis is one of the highest-risk things a homeowner can mishandle. Default to leaving and calling."
     }
   ]
 }
