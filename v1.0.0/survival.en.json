@@ -4,7 +4,7 @@
   "name": "[TEST FIXTURE] Wilderness Survival",
   "locale": "en",
   "publishedAt": "2026-05-25T00:00:00Z",
-  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — see OFF-1373..1378 for production authoring",
+  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — placeholder content, not for production. Real authoring will replace this with cited content.",
   "license": "PLACEHOLDER — not for production use",
   "guides": [
     {
@@ -13,7 +13,7 @@
       "category": "survival",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nIn most environments, the priority order is: shelter, water, fire, food. You can survive only minutes without air, hours without shelter in extreme cold or heat, days without water, and weeks without food.\n\nThis order shifts. In a hot desert at midday, water is the immediate priority. In an arctic blizzard, shelter is. The general rule: protect against whatever will kill you fastest given the current conditions, then move down the list.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "survival-navigation",
@@ -21,7 +21,7 @@
       "category": "survival",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nShadow stick: place an upright stick in the sun, mark the tip of its shadow, wait 15+ minutes, mark again. The line between marks runs west-east; the first mark is west.\n\nIn the Northern Hemisphere at night, find Polaris (north star) by extending the line of the two front stars of the Big Dipper's bowl ~5x. Polaris stays nearly fixed above true north.\n\nPace count: know how many of your double-steps cover 100 meters. Lets you estimate distance traveled on a heading.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "survival-fire-friction",
@@ -29,7 +29,7 @@
       "category": "survival",
       "tier": "extended",
       "content": "[TEST FIXTURE — placeholder. Bow drill is hard. Practice before you need it.]\n\nNeed: a spindle (dry softwood ~8 inches), fireboard (flat softwood with a notch), bow (bent stick + cordage), socket (rock or hardwood with a divot for the spindle top), tinder bundle.\n\nApply downward pressure on the socket while sawing the bow rapidly. Friction creates a coal in the notch beneath the spindle. Transfer the coal carefully to the tinder bundle and blow gently until flame catches.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "survival-edible-test",
@@ -37,7 +37,7 @@
       "category": "survival",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder. Misidentified plants are a leading cause of foraging deaths. When in doubt, do not eat.]\n\nThe traditional test (separate plant parts, test for skin reaction, taste a tiny amount, wait 8 hours, etc.) takes a full day per plant and gives only weak protection against toxins that cause delayed harm (liver damage, kidney damage).\n\nThe safe rule for a few-day survival situation: don't eat anything you cannot positively identify. Hunger isn't fatal on day 3. Most poisonings are.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "survival-water-environment",
@@ -45,7 +45,7 @@
       "category": "survival",
       "tier": "extended",
       "content": "[TEST FIXTURE — placeholder.]\n\nDew: drag clean cloth through grass at dawn, wring into a container.\n\nTranspiration bag: tie a clear plastic bag over a leafy non-toxic branch in sun. Water condenses inside over hours.\n\nSolar still: dig a pit, place container in center, cover with plastic weighted in the middle. Water evaporates from soil and condenses on the plastic.\n\nSnow: melt first, never eat directly (costs body heat). Filter or boil snow water from urban or industrial areas; pristine snow can still carry contaminants.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     }
   ]
 }

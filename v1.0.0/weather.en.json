@@ -4,7 +4,7 @@
   "name": "[TEST FIXTURE] Weather & Climate",
   "locale": "en",
   "publishedAt": "2026-05-25T00:00:00Z",
-  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — see OFF-1373..1378 for production authoring",
+  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — placeholder content, not for production. Real authoring will replace this with cited content.",
   "license": "PLACEHOLDER — not for production use",
   "guides": [
     {
@@ -13,7 +13,7 @@
       "category": "disaster",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nRadar color scale typically runs green (light rain) → yellow (moderate) → red (heavy) → purple/pink (intense, often hail).\n\nA hook echo (the radar image curling back on itself) often indicates rotation and a possible tornado. A bow echo (a line bending forward) usually marks a strong straight-line wind event. Both are warnings to take shelter, not to keep watching.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "weather-lightning",
@@ -21,7 +21,7 @@
       "category": "disaster",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nIf you hear thunder within 30 seconds of seeing lightning, the storm is within ~6 miles — close enough to be struck. Get inside immediately.\n\nWait 30 minutes after the last thunder before going back out. Indoors, stay off corded phones, away from water, and away from windows. Outdoors with no shelter: avoid tall isolated objects, water, and metal. Crouch low with feet together, don't lie flat — keep contact with the ground minimal.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "weather-heat",
@@ -29,7 +29,7 @@
       "category": "disaster",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nHeat exhaustion: heavy sweating, cool clammy skin, weak pulse, nausea, headache. Move to a cool place, loosen clothing, sip water, apply cool wet cloths. Recovery is usually fast.\n\nHeat stroke is a life-threatening escalation: body temp 103°F+, hot dry red skin, rapid strong pulse, confusion, possible loss of consciousness. Call emergency services immediately. Cool the person aggressively — cold packs to the neck, groin, armpits; cool bath if possible. Do not give fluids if confused or unconscious.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "weather-cold",
@@ -37,7 +37,7 @@
       "category": "disaster",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nFrostbite affects exposed skin: numbness, white or grayish appearance, hard or waxy texture. Get indoors. Warm the area with body heat or warm water (not hot, not direct flame). Do not rub.\n\nFor hypothermia symptoms see the shelter pack's hypothermia guide. Layered clothing, dry feet, and avoiding alcohol are the main prevention. Wind chill makes cold dangerous fast even when temps look manageable.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "weather-warning",
@@ -45,7 +45,7 @@
       "category": "disaster",
       "tier": "extended",
       "content": "[TEST FIXTURE — placeholder.]\n\nWATCH means conditions are favorable for severe weather to develop in the watch area within a few hours. Stay alert, review your plan, monitor updates.\n\nWARNING means severe weather is occurring or imminent in the warned area. Take protective action immediately — shelter, evacuate, or whatever the specific warning calls for. Warnings are issued by your country's official weather service and broadcast on weather radios.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     }
   ]
 }

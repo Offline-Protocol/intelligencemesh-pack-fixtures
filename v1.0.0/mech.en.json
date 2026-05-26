@@ -4,7 +4,7 @@
   "name": "[TEST FIXTURE] Mechanical & Repair",
   "locale": "en",
   "publishedAt": "2026-05-25T00:00:00Z",
-  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — see OFF-1373..1378 for production authoring",
+  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — placeholder content, not for production. Real authoring will replace this with cited content.",
   "license": "PLACEHOLDER — not for production use",
   "guides": [
     {
@@ -13,7 +13,7 @@
       "category": "repair",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nRemove the wheel. Use tire levers to unseat one side of the tire. Pull the tube out, inflate it slightly, and listen or feel for the leak. Inspect the inside of the tire for whatever caused the puncture — leaving it in will puncture the patch.\n\nPatch: rough the area with sandpaper, apply rubber cement, wait until tacky, press the patch on firmly for 1 minute. Or replace the tube entirely. Reseat the tire carefully (no pinching the tube), inflate, remount.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "mech-generator-co",
@@ -21,7 +21,7 @@
       "category": "repair",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nNEVER run a generator indoors, in a garage (even with the door open), or within 20 feet of any window, door, or vent. Carbon monoxide is colorless and odorless. It kills fast.\n\nInstall battery CO detectors on every level of the home if you use a generator regularly. If anyone feels dizzy, nauseated, or headachy near a running generator, get outside into fresh air immediately and call emergency services.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "mech-gas-leak",
@@ -29,7 +29,7 @@
       "category": "repair",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nIf you smell gas (rotten eggs):\n\n1. Do NOT use any electrical switch, phone, lighter, match, or anything that sparks. Even turning a light off can ignite gas.\n2. Open windows and doors if you can do so on the way out — but leaving is the priority.\n3. Get everyone outside, away from the building.\n4. From a safe distance, call your gas utility's emergency number and 911.\n5. Do not re-enter until utility staff clear the building.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "mech-water-shutoff",
@@ -37,7 +37,7 @@
       "category": "repair",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nKnow where your main shut-off is BEFORE you need it. Common locations: where the water line enters the home (basement, crawl space, or exterior wall), in a meter box near the curb, or under the front of the house.\n\nMost residential valves are quarter-turn (lever 90 degrees off) or gate valves (round handle turned clockwise until tight). Test it once a year; old valves seize. If you can't shut off water during a leak, the gas-meter side of the home will have a master shutoff at the meter — a wrench will turn it 90 degrees off.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "mech-breaker",
@@ -45,7 +45,7 @@
       "category": "repair",
       "tier": "extended",
       "content": "[TEST FIXTURE — placeholder.]\n\nA tripped breaker sits in the middle position between ON and OFF. To reset, push it FULLY to OFF first, then back to ON. Listen for a snap.\n\nIf the same breaker trips repeatedly, the circuit is overloaded or there is a short. Unplug appliances on that circuit and try one at a time. If it trips with nothing plugged in, call an electrician — there is a wiring problem. Do not bypass or replace a breaker with a larger amperage rating; that risks fire.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     }
   ]
 }

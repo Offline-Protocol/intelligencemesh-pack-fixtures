@@ -4,7 +4,7 @@
   "name": "[TEST FIXTURE] Medications & Triage",
   "locale": "en",
   "publishedAt": "2026-05-25T00:00:00Z",
-  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — see OFF-1373..1378 for production authoring",
+  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — placeholder content, not for production. Real authoring will replace this with cited content.",
   "license": "PLACEHOLDER — not for production use",
   "guides": [
     {
@@ -13,7 +13,7 @@
       "category": "medical",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder. Follow package directions; this is reference only.]\n\nAnalgesics: acetaminophen (Tylenol) — pain and fever, easy on the stomach. Ibuprofen (Advil, Motrin) — pain, fever, inflammation, harder on the stomach. Aspirin — pain, fever, inflammation, never for children under 18.\n\nAntihistamines: diphenhydramine (Benadryl) for allergies and sleep; non-drowsy options like loratadine for daytime.\n\nAntacids: calcium carbonate, famotidine, omeprazole for heartburn.\n\nAntidiarrheals: loperamide for adults; not for bacterial diarrhea or children without a doctor.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "meds-rx-do-not-stop",
@@ -21,7 +21,7 @@
       "category": "medical",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nSome medications cause dangerous withdrawal or rebound effects if stopped suddenly. Discuss any change with the prescriber. Examples include:\n\nBeta blockers (heart, blood pressure) — rebound tachycardia and risk of cardiac event.\nAntidepressants, especially SSRIs and SNRIs — discontinuation syndrome.\nBenzodiazepines — seizure risk.\nCorticosteroids — adrenal insufficiency.\nThyroid replacement — long-term metabolic effects.\nAnticoagulants — clotting risk.\n\nKeep at least a 30-day supply on hand. Refill before zero.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "meds-interactions",
@@ -29,7 +29,7 @@
       "category": "medical",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nAcetaminophen + alcohol — liver damage.\nWarfarin + NSAIDs (ibuprofen, aspirin) — bleeding risk.\nMAOIs + many things (other antidepressants, decongestants, certain foods) — hypertensive crisis.\nGrapefruit + many medications — alters drug metabolism.\nStimulant + stimulant (cold medicine + ADHD med + caffeine) — cardiac risk.\n\nKeep an updated list of every medication and supplement, including doses. Show it to every provider you see.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "meds-triage-start",
@@ -37,7 +37,7 @@
       "category": "medical",
       "tier": "extended",
       "content": "[TEST FIXTURE — placeholder.]\n\nSTART (Simple Triage And Rapid Treatment) sorts casualties into four colors when professional care is overwhelmed:\n\nGreen — walking wounded. Move to a holding area.\nYellow — alive, not walking, but breathing on their own and following commands. Delayed care.\nRed — unable to walk, breathing only after airway repositioning, OR fast pulse and altered mental status. Immediate care.\nBlack — not breathing even after airway clear. Care moves to others first.\n\nReassess regularly — conditions change.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "meds-wound-infection",
@@ -45,7 +45,7 @@
       "category": "medical",
       "tier": "extended",
       "content": "[TEST FIXTURE — placeholder.]\n\nSigns to act on: increasing redness around the wound (especially streaks moving up a limb), increasing pain after the first 48 hours, pus, warmth, swelling, fever, swollen lymph nodes nearby, foul smell.\n\nClean wounds with clean water (boiled and cooled if possible). Cover with a clean dressing. Get medical care for deep wounds, animal bites, puncture wounds, wounds caused by dirty objects, or wounds in someone whose tetanus booster is more than 5 years old.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     }
   ]
 }

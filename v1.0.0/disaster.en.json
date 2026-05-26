@@ -4,7 +4,7 @@
   "name": "[TEST FIXTURE] Disaster Preparedness",
   "locale": "en",
   "publishedAt": "2026-05-25T00:00:00Z",
-  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — see OFF-1373..1378 for production authoring",
+  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — placeholder content, not for production. Real authoring will replace this with cited content.",
   "license": "PLACEHOLDER — not for production use",
   "guides": [
     {
@@ -13,7 +13,7 @@
       "category": "disaster",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder. Defer to FEMA Ready.gov or USGS for current guidance.]\n\nDuring shaking: DROP to your hands and knees, take COVER under a sturdy desk or table, and HOLD ON until the shaking stops. If no shelter is near, drop next to an interior wall, cover your head with your arms, and stay away from windows and exterior walls.\n\nAfter: check yourself and others, expect aftershocks, check for gas leaks (smell only — do not use a flame), turn off utilities if damaged, and stay out of damaged buildings.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "disaster-flood",
@@ -21,7 +21,7 @@
       "category": "disaster",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nIf evacuation is ordered, leave immediately. Never drive through standing or moving water — 6 inches can knock you down, 12 inches can sweep a car away. Turn around, don't drown.\n\nIf trapped, move to the highest floor. Avoid attics that lack roof access. After the water recedes, assume everything that got wet is contaminated. Don't drink tap water until authorities clear it. Discard food that touched flood water.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "disaster-hurricane",
@@ -29,7 +29,7 @@
       "category": "disaster",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nCategories 1 and 2 are dangerous; Category 3 and above are major hurricanes with devastating wind and storm surge. Storm surge is the biggest killer — know your evacuation zone before the season starts.\n\nIf an evacuation is ordered for your zone, leave well before landfall. Roads back up. If sheltering in place, fill the tub with water, charge devices, secure outdoor items, and stay away from windows.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "disaster-wildfire",
@@ -37,7 +37,7 @@
       "category": "disaster",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nClear flammable material (dry brush, leaves, woodpiles, lawn furniture cushions) within 30 feet of structures. Keep gutters clean. Maintain a go-bag with N95 masks for smoke.\n\nIf evacuation is ordered, leave early. Roads close fast and traffic crashes are a major risk. If trapped, shelter in an unburned area such as a large clearing or paved lot, lie face down, and cover with non-synthetic clothing or material.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "disaster-tornado",
@@ -45,7 +45,7 @@
       "category": "disaster",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nWarning signs: dark greenish sky, large hail, low-lying cloud rotation, a roar like a freight train. Get to a basement, interior room on the lowest floor, or an interior closet/bathroom — away from windows.\n\nMobile homes are unsafe in tornadoes; leave for sturdier shelter even in a watch. If caught outside with no shelter, lie flat in a low spot and cover your head. Do not seek shelter under overpasses — wind can intensify there.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "disaster-winter",
@@ -53,7 +53,7 @@
       "category": "disaster",
       "tier": "extended",
       "content": "[TEST FIXTURE — placeholder.]\n\nDuring a major winter storm, sheltering in place is usually safer than travel. Keep heat on and pipes insulated. Avoid carbon monoxide poisoning: never run generators, grills, or vehicle engines indoors or in attached garages.\n\nIf you must travel, keep a vehicle kit: blankets, food, water, shovel, sand, flashlight, and a charged phone. If stranded, stay with the car, run the engine briefly to warm up (open a window slightly and clear snow from the tailpipe), and make yourself visible to rescuers.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     }
   ]
 }

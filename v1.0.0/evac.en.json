@@ -4,7 +4,7 @@
   "name": "[TEST FIXTURE] Evacuation Routes & Shelters",
   "locale": "en",
   "publishedAt": "2026-05-25T00:00:00Z",
-  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — see OFF-1373..1378 for production authoring",
+  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — placeholder content, not for production. Real authoring will replace this with cited content.",
   "license": "PLACEHOLDER — not for production use",
   "guides": [
     {
@@ -13,7 +13,7 @@
       "category": "disaster",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nFollow official orders when they exist — they are based on situational data you don't have. Mandatory means leave; voluntary means leave if you have any vulnerability (medical, mobility, dependents, no power).\n\nWithout an official order, evacuate if your location is directly threatened (rising flood, approaching fire), if utilities are unsafe or absent for days, or if you cannot meet basic needs. Otherwise sheltering in place is usually safer than competing for roads with thousands of others.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "evac-gobag",
@@ -21,7 +21,7 @@
       "category": "disaster",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nWater (1 gallon per person per day, 3 days minimum), non-perishable food, manual can opener, flashlight + batteries, battery or hand-crank radio, first-aid kit, prescriptions and copies of medication lists, cash in small bills, copies of important documents in waterproof bag, change of clothing per person, basic toiletries, hand sanitizer, baby/pet supplies if relevant, glasses spare pair, charger and battery pack.\n\nKeep the bag near the door. Replace water every 6 months and food yearly.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "evac-routes",
@@ -29,7 +29,7 @@
       "category": "disaster",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nMap at least two evacuation routes from home, work, and your children's school — primary and backup. Avoid sole reliance on freeways which jam fast in a real evac.\n\nKeep your fuel tank at least half full during high-risk seasons. Note bridges, low-lying roads, and one-way streets — any of these can be cut by the same disaster you're fleeing. Have a meeting point both inside and outside the danger area in case you get separated.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "evac-special-needs",
@@ -37,7 +37,7 @@
       "category": "disaster",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nPets: carriers ready, leash, food, water, vaccination records, current photo. Most public shelters do not accept pets — locate pet-friendly hotels or boarding ahead of time.\n\nMobility: pre-arrange transport assistance with your local emergency management agency. Don't wait until the order to register. If you depend on power for medical equipment, know how long your battery backup lasts and identify a destination with reliable power.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "evac-shelter-intake",
@@ -45,7 +45,7 @@
       "category": "disaster",
       "tier": "extended",
       "content": "[TEST FIXTURE — placeholder.]\n\nExpect to register, show ID if you have it (a missing ID will not turn you away), and answer basic health questions. Cots and blankets are usually provided. Privacy is minimal — bring your own pillow if comfort matters.\n\nMeals are basic. Quiet hours are enforced. Most shelters do not allow alcohol or firearms. Bring activities for children and any medications you depend on. Smoking areas are outside and away from doors.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     }
   ]
 }

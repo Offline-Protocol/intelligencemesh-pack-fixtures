@@ -4,7 +4,7 @@
   "name": "[TEST FIXTURE] Emergency Signaling",
   "locale": "en",
   "publishedAt": "2026-05-25T00:00:00Z",
-  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — see OFF-1373..1378 for production authoring",
+  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — placeholder content, not for production. Real authoring will replace this with cited content.",
   "license": "PLACEHOLDER — not for production use",
   "guides": [
     {
@@ -13,7 +13,7 @@
       "category": "disaster",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nSOS is three dots, three dashes, three dots: ... --- ... It is a continuous sequence with no letter spacing in between — that's what distinguishes it from the letters S, O, S sent separately.\n\nYou can signal SOS with a flashlight, mirror, whistle, fire/smoke pattern, or by tapping on metal. The pattern is the same regardless of medium. International recognition makes it the most reliable distress signal.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "sos-ground-to-air",
@@ -21,7 +21,7 @@
       "category": "disaster",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder. Refer to ICAO standards for authoritative shapes.]\n\nLay symbols out 3+ meters tall using contrasting material (rocks, branches, gear, fabric). The standard set:\n\nV — Require assistance\nX — Require medical assistance\nN — No\nY — Yes\n→ — Proceeding in this direction\n\nLocate signals in an open area visible from the air. Refresh outlines if wind or weather disturbs them.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "sos-signal-mirror",
@@ -29,7 +29,7 @@
       "category": "disaster",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nReflective sunlight can be seen for tens of miles. Hold the mirror near your eye, extend your other hand toward the target (aircraft, distant person), and tilt the mirror to bounce a sun spot onto your hand. Then slide the spot off your hand toward the target.\n\nFlash the reflection in 3-3-3 SOS rhythm if you have time. Even random flashes attract attention — keep sweeping if you have no specific target.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "sos-three-rule",
@@ -37,7 +37,7 @@
       "category": "disaster",
       "tier": "core",
       "content": "[TEST FIXTURE — placeholder.]\n\nThree of anything is the universal distress signal: three fires arranged in a triangle, three whistle blasts, three shouts, three gunshots, three flashes of light.\n\nGroups of three are intentional and contrast with natural patterns, which is why they read as deliberate signaling. Pause for 30 seconds between groups, then repeat.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     },
     {
       "id": "sos-channel-16",
@@ -45,7 +45,7 @@
       "category": "disaster",
       "tier": "extended",
       "content": "[TEST FIXTURE — placeholder. Get marine VHF training before relying on this.]\n\nChannel 16 is the international maritime distress, safety, and calling frequency (156.8 MHz). Always monitored by coast guards worldwide.\n\nDistress call format: Mayday Mayday Mayday — vessel name — vessel name — vessel name — position — nature of distress — number of people on board — over. Speak slowly and clearly. Repeat if no response.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
     }
   ]
 }
