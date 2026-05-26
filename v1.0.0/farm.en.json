@@ -1,51 +1,67 @@
 {
   "packId": "farm",
   "packVersion": "v1.0.0",
-  "name": "[TEST FIXTURE] Garden & Food Storage",
+  "name": "Garden & Food Storage",
   "locale": "en",
-  "publishedAt": "2026-05-25T00:00:00Z",
-  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — placeholder content, not for production. Real authoring will replace this with cited content.",
-  "license": "PLACEHOLDER — not for production use",
+  "publishedAt": "2026-05-26T00:00:00Z",
+  "sourceAttribution": "Compiled from USDA agricultural extension services, National Center for Home Food Preservation (UGA), USDA Plant Hardiness Zone map, and FDA food-safety guidance. NOT a substitute for tested recipes — especially for canning. Home canning errors cause botulism, which can be fatal. Always follow current NCHFP or USDA recipes precisely.",
+  "license": "CC-BY-4.0 (compilation); source citations carry their own public-domain or open license",
   "guides": [
+    {
+      "id": "farm-zones",
+      "title": "USDA growing zones and planting dates",
+      "category": "food",
+      "tier": "core",
+      "sourceRef": "USDA Plant Hardiness Zone Map (current edition) + USDA extension service planting calendars, retrieved 2026-05-26.",
+      "content": "Your USDA zone determines what perennials survive winter and when to start annual crops.\n\nLook up your zone: USDA Plant Hardiness Zone Map. Zones run roughly 1 (Arctic) to 13 (tropical). Most US gardens are zones 4–9.\n\nKey dates derived from your zone:\n• Last spring frost (average) — when it's safe to plant tender crops outdoors (tomatoes, beans, squash).\n• First fall frost (average) — gives you the days-to-maturity window for choosing varieties.\n\nLocal extension services publish planting calendars with the exact date ranges for each crop, customized for your county. These are usually free PDFs — search \"[your county] extension planting calendar.\"\n\nMicroclimates matter. South-facing walls, urban heat, mountain valleys — all shift your effective zone by half a step or more."
+    },
     {
       "id": "farm-staples",
       "title": "High-calorie staple crops",
       "category": "food",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nFor calorie efficiency per square foot, consider potatoes, sweet potatoes, winter squash, and dry beans. Corn yields well but needs more space. Cabbage and kale extend the harvest into cool weather.\n\nGrowing zones matter — check the USDA zone for your region (or the equivalent map for your country) before planting. The same crop can be a 90-day or 120-day variety; pick what matches your frost dates.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "USDA extension service crop calorie + storage guides, retrieved 2026-05-26.",
+      "content": "For calorie-per-square-foot in a self-reliance garden, these crops carry the most weight:\n\n• Potatoes: 8–10 lb per 10-square-foot bed in good soil. Easy storage in a cool dark place. Plant from seed potatoes after last frost.\n• Sweet potatoes: similar yield in warm climates (zones 7+). Need long warm season.\n• Winter squash (butternut, kabocha, hubbard): high calorie density, stores 3–6 months at room temp. Needs space (vines).\n• Dry beans: protein staple. Pole varieties give more per square foot than bush.\n• Corn (dent or flour types, not sweet corn): grinds to meal, stores long. Needs space and good soil.\n• Onions and garlic: long storage; flavor base.\n\nFor short-season climates, prioritize: potatoes, beans, kale, cabbage, beets.\n\nA family of four growing for a meaningful portion of their food needs ~1,000+ sq ft of intensive bed space. Less for supplement only."
     },
     {
       "id": "farm-container",
-      "title": "Container gardening for apartments",
+      "title": "Container gardening (apartments, balconies)",
       "category": "food",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nUse food-safe containers with drainage holes. Lettuce, herbs, peppers, and cherry tomatoes do well in containers. Larger crops (zucchini, kale, dwarf tomatoes) need 5+ gallon pots.\n\nWater more often than ground beds — containers dry out fast. Use a quality potting mix, not garden soil. Feed every few weeks with diluted fertilizer; nutrients leach out with watering.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "USDA + state extension service container-gardening guides, retrieved 2026-05-26.",
+      "content": "Container size matters more than people expect:\n• 1–2 gal: lettuce, herbs, radishes, scallions.\n• 3 gal: peppers, cherry tomatoes, dwarf bush beans.\n• 5+ gal: full-size tomatoes, eggplant, dwarf zucchini, kale.\n• 10+ gal: potatoes (one plant), dwarf fruit trees.\n\nUse food-safe containers (food-grade plastic, ceramic, untreated wood, or fabric grow bags). Avoid containers that held chemicals.\n\nDrainage holes are essential — drill them if not present.\n\nUse a quality potting MIX (not garden soil — too heavy, compacts, may carry disease). Garden soil belongs in the ground.\n\nWater more often than ground beds — containers dry out fast. In summer, daily or twice-daily for small pots in sun.\n\nFeed every 2–3 weeks with diluted liquid fertilizer — nutrients leach out with each watering. Slow-release granules mixed in at planting also work."
     },
     {
-      "id": "farm-canning",
-      "title": "Canning safety — botulism prevention",
+      "id": "farm-canning-safety",
+      "title": "Canning safety — acidity is everything",
       "category": "food",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder. Follow NCHFP guidance precisely for any canning. Home canning errors cause botulism, which can be fatal.]\n\nHigh-acid foods (pH 4.6 or below — most fruits, pickles with adequate vinegar) can be safely water-bath canned.\n\nLow-acid foods (vegetables, meats, soups, mixes) MUST be pressure canned — boiling water cannot reach the temperature needed to kill botulinum spores. Use a tested recipe from the National Center for Home Food Preservation or similar authoritative source. Never reuse single-use lids; the seal compound is one-time-only.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "National Center for Home Food Preservation + USDA Complete Guide to Home Canning, retrieved 2026-05-26. ALWAYS use a current tested recipe — formulations have changed; old recipes can be unsafe.",
+      "content": "Botulism is the danger. Clostridium botulinum spores survive in low-acid sealed jars and produce a toxin that can be fatal. Acid + heat + time are how you defeat it.\n\nHIGH-ACID FOODS (pH 4.6 or below) — safe with WATER-BATH canning:\n• Most fruits (apples, peaches, pears, berries, plums, cherries)\n• Tomatoes (with added acid — bottled lemon juice or citric acid — modern tomato varieties are not reliably acidic enough on their own)\n• Pickled vegetables with adequate vinegar\n• Jams, jellies, preserves\n\nLOW-ACID FOODS (pH above 4.6) — REQUIRE PRESSURE CANNING:\n• All vegetables (except properly pickled)\n• Meats, poultry, seafood\n• Soups, stews, sauces with meat or vegetables\n• Beans, mushrooms\n\nWater-bath canning of low-acid food is DANGEROUS. Boiling water tops out at 212°F (100°C) — not hot enough to kill botulinum spores. Pressure canning reaches 240°F+ (116°C+) under 10–15 PSI, which IS hot enough.\n\nRules that apply to all canning:\n• Use only tested recipes from NCHFP or USDA. Old family recipes may not be safe with modern varieties.\n• Use new single-use lids every time. Reusing lids fails seals.\n• Process for the FULL time the recipe specifies — adjust upward for altitude per the recipe's chart.\n• After cooling, check seals: lid should be concave and not flex when pressed. Refrigerate or reprocess any jar that didn't seal.\n• Discard any jar that bulges, leaks, has off odors, or shoots liquid when opened. Do not taste."
+    },
+    {
+      "id": "farm-other-preservation",
+      "title": "Other preservation methods",
+      "category": "food",
+      "tier": "extended",
+      "sourceRef": "NCHFP guides on dehydrating, freezing, and fermenting, retrieved 2026-05-26.",
+      "content": "Freezing: simplest. Blanch most vegetables first to deactivate enzymes (2–4 min boiling water, then ice bath). Pack in moisture-proof containers. Most vegetables keep 8–12 months at 0°F (-18°C).\n\nDehydrating: removes water so microbes can't grow. Use a food dehydrator at 125–135°F for most vegetables, 135–145°F for meats (jerky). Test for doneness — vegetables should be brittle, fruits leathery. Store in airtight containers in cool dark place.\n\nFermenting: lactic acid bacteria preserve while adding flavor (sauerkraut, kimchi, pickles). 2% salt by weight is the standard ratio. Keep submerged under brine. Vegetable ferments are very safe — the acid produced inhibits pathogens. Different from canning: ferments are LIVE; refrigerate after the active phase.\n\nSmoking: combines slow heat + smoke. Hot smoking (above 145°F) cooks AND preserves. Cold smoking (below 90°F) flavors only — meat must be fully cured first to be safe.\n\nCuring (salt + sometimes nitrites): traditional meat preservation. Requires precise ratios for safety. Beginners should use tested cure mixes per package directions — homemade cures have killed people."
     },
     {
       "id": "farm-root-cellar",
       "title": "Root cellar basics",
       "category": "food",
       "tier": "extended",
-      "content": "[TEST FIXTURE — placeholder.]\n\nIdeal storage: 32-40°F (0-4°C), 85-95% humidity, dark, well-ventilated.\n\nGood crops for root storage: potatoes, carrots, beets, turnips, parsnips, cabbage, winter squash, onions, garlic. Different crops want different humidity; segregate if possible (onions/garlic prefer drier; carrots/beets prefer humid).\n\nA spare basement room, insulated outdoor pit, or buried trash can lined with straw can serve as a starter root cellar.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "USDA extension service root-cellar references, retrieved 2026-05-26.",
+      "content": "Ideal conditions: 32–40°F (0–4°C), 85–95% humidity, dark, well-ventilated to disperse ethylene (which ripens fruit too fast).\n\nA real root cellar is a dedicated underground space. Substitutes:\n• An unheated basement room with insulation against the warm wall.\n• A buried trash can lined with straw, in a dug pit (apple/carrot \"clamp\").\n• An insulated cooler in an unheated garage in winter.\n\nNot all crops want the same conditions:\n• Potatoes, carrots, beets, parsnips, turnips, cabbage: cold + humid (32–40°F, high humidity).\n• Winter squash, pumpkins: cool + dry (50–55°F, 50–70% humidity).\n• Onions, garlic: cool + dry (32–50°F, low humidity, well-ventilated).\n• Apples: cold (32°F), separate from other crops because they release ethylene.\n\nCheck stored produce weekly. \"One bad apple spoils the barrel\" is literal — remove anything bruised or rotting immediately.\n\nLabel and date everything. Use oldest first."
     },
     {
       "id": "farm-pantry",
-      "title": "Shelf-stable pantry basics",
+      "title": "Shelf-stable pantry — rotation and shelf life",
       "category": "food",
       "tier": "extended",
-      "content": "[TEST FIXTURE — placeholder.]\n\nFirst-in, first-out rotation: place new purchases at the back, use the oldest first. Label with purchase date if packaging doesn't show one.\n\nLong shelf life staples: rice, dry beans, rolled oats, pasta, peanut butter, canned vegetables and meats, honey, salt, sugar, vinegar. Keep in airtight containers in a cool dark place. Mylar bags with oxygen absorbers extend shelf life of grains to decades.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "FDA + USDA food-storage references, retrieved 2026-05-26.",
+      "content": "First-in, first-out (FIFO) rotation: new purchases at the back, oldest in front. Label with purchase date if packaging doesn't show one.\n\nLong shelf-life staples (in original packaging, cool and dry):\n• White rice: 25–30 years\n• Dry beans: 25–30 years\n• Wheat berries (whole grain): 25–30 years\n• Rolled oats: 25–30 years\n• Salt, sugar, honey: indefinitely\n• Pasta: 5–8 years\n• Peanut butter: 1–2 years\n• Canned vegetables and meats: 2–5 years (use by, then test) — discard any with bulging, rust, or off smell\n• Powdered milk: 2–10 years (sealed)\n\nExtended shelf life via mylar bags + oxygen absorbers: grains and beans can last decades. Seal in food-grade mylar with one 300cc oxygen absorber per 1-gallon bag.\n\nRotation pattern for a 1-year supply: replace 1/12 each month so nothing exceeds expected shelf life.\n\nFor an emergency-only stash, choose foods that need no cooking and the family will actually eat. Calorie density matters; nutritional balance matters more than people think over weeks-to-months."
     }
   ]
 }
