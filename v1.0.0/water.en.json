@@ -1,51 +1,51 @@
 {
   "packId": "water",
   "packVersion": "v1.0.0",
-  "name": "[TEST FIXTURE] Water & Sanitation",
+  "name": "Water & Sanitation",
   "locale": "en",
-  "publishedAt": "2026-05-25T00:00:00Z",
-  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — placeholder content, not for production. Real authoring will replace this with cited content.",
-  "license": "PLACEHOLDER — not for production use",
+  "publishedAt": "2026-05-26T00:00:00Z",
+  "sourceAttribution": "Compiled from CDC drinking-water and sanitation guidance, WHO water-quality references, and EPA emergency-water resources. NOT a substitute for official local boil-water advisories or public-health guidance.",
+  "license": "CC-BY-4.0 (compilation); source citations carry their own public-domain or open license",
   "guides": [
     {
-      "id": "water-purify-boil",
-      "title": "Boiling for safe water",
+      "id": "water-boil",
+      "title": "Boiling — the most reliable purification",
       "category": "survival",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nBoiling kills bacteria, viruses, and parasites. Bring water to a rolling boil for at least 1 minute (3 minutes at elevations above 6,500 feet). Let cool before drinking.\n\nBoiling does not remove chemical contamination — only biological. If the water is also chemically contaminated (gas leak, agricultural runoff, industrial spill), boiling can concentrate the chemicals. Use a different source if you suspect chemical contamination.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "CDC — Making Water Safe in an Emergency, retrieved 2026-05-26.",
+      "content": "Boiling kills bacteria, viruses, and parasites. It does NOT remove chemical contamination — only biological.\n\nBring water to a rolling boil for:\n• 1 minute at most altitudes\n• 3 minutes above 6,500 feet (2,000 m)\n\nLet cool. Improve taste by pouring back and forth between containers (re-aerates) or adding a pinch of salt per quart.\n\nIf the water is cloudy: let it settle first, then filter through a clean cloth or coffee filter before boiling. Suspended particles can shield pathogens from heat.\n\nDo NOT boil water you suspect is chemically contaminated (gas spill, agricultural runoff, industrial plume). Boiling can CONCENTRATE chemicals as water evaporates. Find another source."
     },
     {
-      "id": "water-purify-chemical",
-      "title": "Chemical disinfection — chlorine and iodine",
+      "id": "water-chemical",
+      "title": "Chemical disinfection — chlorine bleach",
       "category": "survival",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder. Follow specific tablet/dropper instructions; this is a rough reference.]\n\nUnscented household bleach (5-9% sodium hypochlorite): 8 drops per gallon of clear water, 16 drops if cloudy. Stir and wait 30 minutes. Water should have a slight chlorine smell — if not, add another dose and wait 15 more minutes.\n\nIodine tablets work similarly per package directions. Iodine is not safe for long-term use, pregnant people, or those with thyroid conditions.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "EPA Emergency Disinfection of Drinking Water + CDC, retrieved 2026-05-26.",
+      "content": "Use only unscented household chlorine bleach with sodium hypochlorite as the only active ingredient. Read the label.\n\nFor 6% bleach (most common today):\n• Clear water: 8 drops per gallon (2 drops per quart/liter)\n• Cloudy/cold water: 16 drops per gallon (4 drops per quart/liter)\n\nFor 8.25% bleach:\n• Clear water: 6 drops per gallon\n• Cloudy/cold water: 12 drops per gallon\n\nStir. Let stand 30 minutes. Water should have a slight chlorine smell. If not, repeat dose and wait 15 more minutes. If still no chlorine smell, find another source — the bleach may have expired.\n\nIodine: works similarly per package directions but is NOT recommended for pregnant people, people with thyroid conditions, or sustained use beyond a few weeks.\n\nNeither chlorine nor iodine reliably kills Cryptosporidium. For that you need boiling or a filter rated 1 micron absolute or smaller."
+    },
+    {
+      "id": "water-filter",
+      "title": "Filters and other methods",
+      "category": "survival",
+      "tier": "extended",
+      "sourceRef": "CDC + WHO water filter guidance, retrieved 2026-05-26.",
+      "content": "Filter pore-size ratings (\"absolute\" means the maximum particle that passes):\n• 1 micron absolute: removes most bacteria, protozoa (Cryptosporidium, Giardia). Does NOT remove viruses.\n• 0.3 micron absolute: better margin on bacteria + protozoa. Still does NOT remove viruses.\n• 0.01 micron (ultrafilter / hollow fiber): removes viruses too.\n\nMost backpacking filters don't remove viruses — fine in North America/Europe where viral waterborne illness is rare; risky in developing-world water.\n\nSODIS (solar disinfection): fill clear PET bottles with clear water, lay on a reflective surface in full sun for 6 hours (full day if cloudy). UV-A inactivates pathogens. Works for small volumes; not for very cloudy water.\n\nDistillation: boil water, condense the steam. Removes chemicals (heavy metals, salt) and pathogens. Slow but the only method that handles seawater or chemical contamination."
     },
     {
       "id": "water-storage",
-      "title": "Safe water storage",
+      "title": "Safe storage and rationing",
       "category": "survival",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nStore at least 1 gallon per person per day for at least 3 days (2 weeks ideal). Use food-grade containers; clean them with dish soap and rinse before filling. Avoid containers that held milk or juice — residues feed bacteria.\n\nReplace stored water every 6 months. Keep containers sealed, in a cool dark place. Label with the fill date.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "FEMA Ready.gov + CDC water storage guidance, retrieved 2026-05-26.",
+      "content": "Storage:\n• At least 1 gallon per person per day (3-day minimum, 2-week ideal).\n• Use food-grade containers. Avoid containers that held milk or juice — residues feed bacteria.\n• Pre-clean with dish soap, rinse well before filling.\n• Treated tap water can be stored 6 months. Replace then.\n• Label with the fill date.\n• Cool, dark place. Sealed.\n\nRationing:\n• In hot climates or with exertion, an adult can need 4+ liters per day. The 1-gallon minimum is a survival floor, not a comfort target.\n• Don't ration severely — dehydration kills faster than thirst makes you uncomfortable.\n• Reduce activity, stay in shade, sip slowly rather than gulping.\n• You can go weeks without food but only days without water. Prioritize hydration over food.\n\nBaby formula: use treated bottled water, not tap, if a boil-water advisory is in effect."
     },
     {
-      "id": "water-rationing",
-      "title": "Rationing in an emergency",
-      "category": "survival",
-      "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nIn hot climates or with exertion, a person can need 4+ liters per day. The 1-gallon minimum is a survival floor, not a comfort target.\n\nDon't ration drinking water severely — dehydration kills faster than thirst. Instead, reduce activity, stay in shade, and prioritize hydration over food (you can go weeks without food, but only days without water). Sip slowly rather than gulping.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
-    },
-    {
-      "id": "water-latrine",
-      "title": "Latrine siting and sanitation",
+      "id": "water-sanitation",
+      "title": "Latrines and sanitation",
       "category": "survival",
       "tier": "extended",
-      "content": "[TEST FIXTURE — placeholder.]\n\nDig latrines at least 200 feet (60 meters) downhill from any water source, well, or kitchen area. A simple pit 3 feet deep, covered with dirt after each use, works for short-term use.\n\nWash hands with soap and water after using the latrine and before handling food. If soap is unavailable, sand or ash with water is better than nothing. Keep handwashing and food prep stations well separated from waste areas.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "Sphere humanitarian standards + WHO sanitation in emergencies, retrieved 2026-05-26.",
+      "content": "Latrines:\n• At least 200 feet (60 m) downhill from any water source, well, or kitchen area.\n• A simple pit 3 feet deep, covered with dirt after each use, works for short-term emergencies.\n• For larger groups or longer durations: separate user trenches, hand-washing station nearby, lime or wood ash to reduce smell and flies.\n• Mark with a flag or sign so children and visitors don't wander into them.\n\nHygiene:\n• Wash hands with soap and water after using the latrine and before handling food.\n• If soap is unavailable, sand or ash with water is better than nothing.\n• Alcohol-based hand sanitizer works against most pathogens but NOT Cryptosporidium or norovirus — soap is more important than sanitizer when latrines are involved.\n\nGreywater (from dishes, bathing):\n• Strain solids, dispose in a separate soak-away pit or scatter in a non-food area.\n• Don't dump near drinking-water sources or food prep.\n\nCholera, giardia, cryptosporidium spread via fecal-oral route. The single biggest intervention is separating waste from drinking water and washing hands."
     }
   ]
 }

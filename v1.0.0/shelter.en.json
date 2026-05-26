@@ -1,51 +1,51 @@
 {
   "packId": "shelter",
   "packVersion": "v1.0.0",
-  "name": "[TEST FIXTURE] Shelter & Warmth",
+  "name": "Shelter & Warmth",
   "locale": "en",
-  "publishedAt": "2026-05-25T00:00:00Z",
-  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — placeholder content, not for production. Real authoring will replace this with cited content.",
-  "license": "PLACEHOLDER — not for production use",
+  "publishedAt": "2026-05-26T00:00:00Z",
+  "sourceAttribution": "Compiled from US Army Field Manual 21-76 (public domain), USFS survival materials, US Coast Guard cold-water survival data, and CDC hypothermia guidance. NOT a substitute for survival training; practice these skills before you need them.",
+  "license": "Public domain compilation; source citations carry their own public-domain license",
   "guides": [
     {
-      "id": "shelter-debris",
-      "title": "Building a debris shelter",
+      "id": "shelter-priorities",
+      "title": "Priorities of shelter",
       "category": "survival",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nA debris shelter uses fallen branches, leaves, and natural cover for insulation when you have no tent or tarp. Find a sturdy ridgepole (a long branch) and lean it against a tree about waist high. Add ribs (smaller branches) at 45 degrees on both sides. Layer leaves and debris 2-3 feet thick over the whole structure for insulation.\n\nInside should be just big enough for your body — too much space means you can't warm it with your body heat. Insulate the floor with at least 6 inches of leaves to stop heat loss into the ground.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "US Army FM 21-76 Survival Manual + USFS Wilderness Survival, retrieved 2026-05-26.",
+      "content": "Heat loss happens four ways. Defend against all of them:\n\n1. Conduction: heat sucked out by contact with cold ground or wet clothing. INSULATE the ground first — 6+ inches of leaves, pine boughs, or a sleeping pad. The single highest-leverage thing you can do.\n2. Convection: wind strips warmed air off your body. BLOCK wind with a shelter wall, trees, terrain.\n3. Radiation: body heat radiates into cold space. COVER (especially head, neck) and reflect (foil blanket).\n4. Evaporation: sweat or wet clothing pulls heat as it dries. STAY DRY. Remove wet clothes if you have dry replacements; cotton kills, wool and synthetic insulate when wet.\n\nShelter > water > fire > food. In cold or wet conditions, shelter is the immediate priority — exposure can kill in hours, while you can go days without water and weeks without food."
+    },
+    {
+      "id": "shelter-debris",
+      "title": "Debris shelter (no tarp, no tools)",
+      "category": "survival",
+      "tier": "core",
+      "sourceRef": "US Army FM 21-76 + USFS Wilderness Survival, retrieved 2026-05-26.",
+      "content": "Uses fallen branches and natural debris when you have no tent or tarp.\n\n1. Find a sturdy ridgepole — a long branch, at least 1.5× your height. Lean one end against a tree about waist high, other end on the ground.\n2. Add ribs (smaller branches) at about 45 degrees on both sides of the ridgepole, like an upside-down V.\n3. Layer leaves, pine needles, bark, debris over the whole structure — 2 to 3 FEET thick. More than feels reasonable. This is your insulation.\n4. Stuff the inside with another foot of dry debris (ground layer + body covering).\n\nInside should be just big enough for your body curled up. Too much empty space and you can't warm it with body heat.\n\nIf rain is likely, add a final layer of large bark, sod, or other water-shedding material on top.\n\nPractice this before you need it. A first-attempt debris shelter on a freezing night isn't worth the risk."
     },
     {
       "id": "shelter-tarp",
       "title": "Tarp shelter configurations",
       "category": "survival",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nA-frame: rope between two trees, tarp draped over, corners staked. Simple and sheds rain in any direction.\n\nLean-to: one edge of the tarp anchored on the ground, the other angled up. Good if you have a fire — the angled tarp reflects heat back to you.\n\nPlow point: stake three corners to the ground, raise the fourth on a stick or rope. Aerodynamic in wind.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
-    },
-    {
-      "id": "shelter-hypothermia",
-      "title": "Recognizing and treating hypothermia",
-      "category": "survival",
-      "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nStages: mild (uncontrollable shivering, slurred speech, clumsy hands), moderate (shivering may stop, confusion, drowsiness), severe (unconsciousness, weak or absent pulse).\n\nTreatment: remove wet clothing, replace with dry layers, get out of wind, share body heat in a sleeping bag if possible, give warm sweet drinks if conscious. Handle a severely hypothermic person gently — rough handling can trigger cardiac arrest. Get to professional medical care.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "USFS + Boy Scouts of America historical handbooks (older editions public domain), retrieved 2026-05-26.",
+      "content": "A-frame: rope between two trees, tarp draped over, corners staked. Simple and sheds rain in any direction. Good for groups.\n\nLean-to: one edge anchored on the ground, opposite edge angled up and tied to trees or stakes. Open side faces away from wind. Good if you have a fire — the angled tarp reflects heat back to you.\n\nPlow point: stake three corners flat to the ground, raise the fourth on a stick or rope to a high point. Aerodynamic in wind, low profile.\n\nDiamond (one-person): tarp set as a diamond, one corner to a tree at standing height, opposite corner staked low. Pulled tight to two side stakes. Fast to set up.\n\nGeneral rules:\n• Long axis perpendicular to wind\n• Lower side toward wind/rain\n• Don't pitch in a low spot (water collects) or under a dead branch (\"widowmaker\")\n• Insulate the ground first — the tarp protects from rain, not from cold conduction"
     },
     {
       "id": "shelter-fire",
-      "title": "Fire building basics",
+      "title": "Fire — building and safety",
       "category": "survival",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nStart with tinder (dry grass, birch bark, cotton ball), build up through kindling (pencil-thick sticks), then add larger fuel.\n\nClear a 10-foot area down to dirt or rock. Have water or dirt nearby to extinguish. Never leave a fire unattended. Drown coals with water and stir until cold to the touch before walking away. In wildfire-prone areas, check local restrictions before lighting any fire.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "US Forest Service fire-building basics + Smokey Bear public-domain materials, retrieved 2026-05-26.",
+      "content": "Three sizes of fuel, in order:\n\n1. Tinder: takes a spark or small flame. Dry grass, birch bark, fatwood shavings, cotton ball, lint, pine resin. Needs to be DRY.\n2. Kindling: pencil-thick dry sticks. Snap-test — should break cleanly, not bend.\n3. Fuel wood: gradually larger pieces.\n\nBuild a teepee (sticks leaned around the tinder) or log cabin (alternating layers) structure. Leave air gaps — fire needs oxygen.\n\nLight the tinder, blow gently if needed. Don't smother the small flame with too much fuel at once. Add kindling as flames grow, then fuel.\n\nSAFETY:\n• Clear a 10-foot circle to bare dirt or rock.\n• Have water or dirt ready to extinguish.\n• Never leave a fire unattended.\n• Wind shifts ignite leaves you didn't think were in range.\n• Before walking away: drown coals with water (or smother with dirt), stir, drown again, feel ashes with your hand — if too hot to touch, it's too hot to leave.\n\nIn wildfire-prone areas, check local restrictions before lighting any fire — it may be illegal."
     },
     {
-      "id": "shelter-stay-or-go",
-      "title": "The stay-or-go decision",
+      "id": "shelter-cold-water",
+      "title": "Cold-water survival",
       "category": "survival",
       "tier": "extended",
-      "content": "[TEST FIXTURE — placeholder.]\n\nStay if: you told someone your route and they will alert rescuers, you have shelter and water, the terrain is bad for travel, weather is dangerous, you have an injured person, or it is near nightfall.\n\nGo if: no one knows where you are, you are clearly within walking distance of safety with daylight to spare, your current location is itself dangerous (rising water, fire), or you have a strong signal indicating direction (sound of road, lights at night).",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "US Coast Guard cold-water survival research (public domain), retrieved 2026-05-26.",
+      "content": "Sudden cold-water immersion is more dangerous than the temperature alone suggests.\n\nThree phases:\n\n1. Cold shock (first 1–3 minutes): gasp reflex inhales water. Hyperventilation. Cardiac stress. Most cold-water drownings happen here. KEEP YOUR HEAD ABOVE WATER and focus on slowing your breathing.\n\n2. Cold incapacitation (3–30 minutes): muscle and nerve function degrade. Hands lose grip; legs can't kick. Get out of the water if possible while you still have function. If swimming to safety, only attempt it if shore is very close.\n\n3. Hypothermia (after 30+ min): true core-temperature drop. Survival times in cold water:\n• 70°F (21°C): 2–40 hours\n• 60°F (16°C): 2–12 hours\n• 50°F (10°C): 1–6 hours\n• 40°F (4°C): 30 min – 3 hours\n• 32°F (0°C): under 1 hour\n\nHELP position (alone): heat-escape lessening posture — knees up to chest, arms tight against sides, head out of water. Reduces heat loss.\n\nHuddle (group): tight chest-to-chest circle, arms over shoulders. Preserves combined heat. Put children and elderly in the center.\n\nDo NOT remove a life jacket. Do NOT take off clothing in the water — even wet, it traps a warm layer."
     }
   ]
 }

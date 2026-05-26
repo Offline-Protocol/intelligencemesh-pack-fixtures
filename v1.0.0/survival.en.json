@@ -1,51 +1,67 @@
 {
   "packId": "survival",
   "packVersion": "v1.0.0",
-  "name": "[TEST FIXTURE] Wilderness Survival",
+  "name": "Wilderness Survival",
   "locale": "en",
-  "publishedAt": "2026-05-25T00:00:00Z",
-  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — placeholder content, not for production. Real authoring will replace this with cited content.",
-  "license": "PLACEHOLDER — not for production use",
+  "publishedAt": "2026-05-26T00:00:00Z",
+  "sourceAttribution": "Compiled from US Army Field Manual 21-76 (public domain), USFS survival materials, and historical Boy Scouts of America handbooks (older editions public domain). NOT a substitute for survival training; book knowledge without practice fails under stress.",
+  "license": "Public domain compilation; source citations carry their own public-domain license",
   "guides": [
     {
       "id": "survival-priorities",
-      "title": "Priorities of survival",
+      "title": "The priorities of survival",
       "category": "survival",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nIn most environments, the priority order is: shelter, water, fire, food. You can survive only minutes without air, hours without shelter in extreme cold or heat, days without water, and weeks without food.\n\nThis order shifts. In a hot desert at midday, water is the immediate priority. In an arctic blizzard, shelter is. The general rule: protect against whatever will kill you fastest given the current conditions, then move down the list.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "US Army FM 21-76 Survival Manual, retrieved 2026-05-26.",
+      "content": "In most environments the priority order is: SHELTER → WATER → FIRE → FOOD.\n\nRule-of-thumb durations:\n• Minutes without air\n• Hours without shelter (in extreme conditions)\n• Days without water\n• Weeks without food\n\nThis is the framework — the actual top priority shifts with environment:\n\n• Hot desert at midday: water is immediate. Find shade first; ration sweat by reducing activity, not by drinking less.\n• Arctic blizzard: shelter and warmth are immediate.\n• Drowning person: air is immediate.\n• Severely bleeding person: stop the bleed first (firstaid pack).\n\nGeneral rule: defend against whatever will kill you fastest given the conditions, then work down the list. Reassess every few hours — conditions change."
+    },
+    {
+      "id": "survival-stop-think",
+      "title": "STOP — the first 5 minutes",
+      "category": "survival",
+      "tier": "core",
+      "sourceRef": "US Forest Service Lost in the Woods + USAF survival training (public domain), retrieved 2026-05-26.",
+      "content": "When you realize you're lost or in a survival situation, the most dangerous thing is panic — random movement burns calories and risks injury.\n\nSTOP:\n• S — Stop. Sit down. Take 10 deep breaths.\n• T — Think. What do you know? Last known position? Daylight remaining? Resources you have?\n• O — Observe. Weather, terrain, water sources, shelter sites, signs of human activity.\n• P — Plan. Make a deliberate decision. Stay or move? Shelter or signal?\n\nUsually: STAY PUT if you told someone your route, if you're hurt, if shelter and water are nearby, or if it's near nightfall. Searchers find stationary people. People who keep moving get further from rescue.\n\nGO if no one knows where you are, you're clearly within walking distance of safety with daylight to spare, your current location is itself dangerous (rising water, fire), or you have a strong directional signal (sound of road, lights at night)."
     },
     {
       "id": "survival-navigation",
-      "title": "Basic navigation without GPS",
+      "title": "Navigation without GPS",
       "category": "survival",
-      "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nShadow stick: place an upright stick in the sun, mark the tip of its shadow, wait 15+ minutes, mark again. The line between marks runs west-east; the first mark is west.\n\nIn the Northern Hemisphere at night, find Polaris (north star) by extending the line of the two front stars of the Big Dipper's bowl ~5x. Polaris stays nearly fixed above true north.\n\nPace count: know how many of your double-steps cover 100 meters. Lets you estimate distance traveled on a heading.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "tier": "extended",
+      "sourceRef": "US Army FM 3-25.26 Map Reading + US Coast Guard public-domain celestial navigation references, retrieved 2026-05-26.",
+      "content": "Shadow stick (any clear day):\n1. Place an upright stick in level ground in the sun.\n2. Mark the tip of its shadow with a small stone.\n3. Wait 15+ minutes.\n4. Mark the new shadow tip. The line between the two marks runs (roughly) WEST to EAST — the first mark is west, the second east.\n5. North is perpendicular to that line (in the Northern Hemisphere, on the side away from where the sun's arc passes).\n\nNorthern Hemisphere at night — find Polaris (north star):\n• Find the Big Dipper.\n• Extend the line of the two stars at the front of the bowl about 5× their distance — that's Polaris.\n• Polaris stays nearly fixed above true north (under 1° from celestial north).\n\nSouthern Hemisphere — use the Southern Cross:\n• Extend the long axis of the cross 4.5× its length.\n• Drop straight down from that point to the horizon. That's south.\n\nPace count: know how many of your double-steps cover 100 meters on flat ground (typically 60–70 for adults). Lets you estimate distance traveled on a heading. Recount on slopes."
     },
     {
       "id": "survival-fire-friction",
-      "title": "Friction fire — bow drill basics",
+      "title": "Friction fire — bow drill (last resort)",
       "category": "survival",
       "tier": "extended",
-      "content": "[TEST FIXTURE — placeholder. Bow drill is hard. Practice before you need it.]\n\nNeed: a spindle (dry softwood ~8 inches), fireboard (flat softwood with a notch), bow (bent stick + cordage), socket (rock or hardwood with a divot for the spindle top), tinder bundle.\n\nApply downward pressure on the socket while sawing the bow rapidly. Friction creates a coal in the notch beneath the spindle. Transfer the coal carefully to the tinder bundle and blow gently until flame catches.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
-    },
-    {
-      "id": "survival-edible-test",
-      "title": "Universal edibility test — and why to avoid it",
-      "category": "survival",
-      "tier": "core",
-      "content": "[TEST FIXTURE — placeholder. Misidentified plants are a leading cause of foraging deaths. When in doubt, do not eat.]\n\nThe traditional test (separate plant parts, test for skin reaction, taste a tiny amount, wait 8 hours, etc.) takes a full day per plant and gives only weak protection against toxins that cause delayed harm (liver damage, kidney damage).\n\nThe safe rule for a few-day survival situation: don't eat anything you cannot positively identify. Hunger isn't fatal on day 3. Most poisonings are.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "US Army FM 21-76 + USFS public-domain fire-craft references, retrieved 2026-05-26.",
+      "content": "Friction fire is HARD. Carrying a lighter, ferro rod, or waterproof matches is far more reliable. Treat this as a last-resort skill, and practice it dry on a sunny day before relying on it.\n\nBow drill components:\n• Spindle: dry softwood (cedar, willow), ~8 inches long, finger-thick, both ends rounded.\n• Fireboard: flat dry softwood with a small divot near the edge and a V-notch cut from the edge to the divot.\n• Bow: flexible stick about 2 feet, with cordage strung loose enough to wrap once around the spindle.\n• Socket (handhold): a hardwood or rock piece with a small divot to hold the spindle top with minimal friction.\n• Tinder bundle: very fine dry material — birch bark scrapings, cedar bark fluff, dry grass.\n\nLoop the bow string around the spindle. Place spindle base in fireboard divot, socket on top. Press down on the socket; saw the bow rapidly back and forth. Friction generates a coal in the V-notch.\n\nTransfer the coal gently to the tinder bundle. Cup in your hands and blow steadily until it flames.\n\nFails most commonly because: wood too wet, cordage too tight, downward pressure too light. Practice."
     },
     {
       "id": "survival-water-environment",
       "title": "Water from the environment",
       "category": "survival",
       "tier": "extended",
-      "content": "[TEST FIXTURE — placeholder.]\n\nDew: drag clean cloth through grass at dawn, wring into a container.\n\nTranspiration bag: tie a clear plastic bag over a leafy non-toxic branch in sun. Water condenses inside over hours.\n\nSolar still: dig a pit, place container in center, cover with plastic weighted in the middle. Water evaporates from soil and condenses on the plastic.\n\nSnow: melt first, never eat directly (costs body heat). Filter or boil snow water from urban or industrial areas; pristine snow can still carry contaminants.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "US Army FM 21-76 + USFS wilderness water sources, retrieved 2026-05-26.",
+      "content": "Sources, ranked roughly:\n\n1. Flowing streams above human/animal activity. Still purify (boil, filter, chemical) — Giardia and Cryptosporidium are common.\n2. Rainwater off a clean tarp or large leaves.\n3. Dew: drag a clean cloth or absorbent material through grass at dawn, wring into a container.\n4. Transpiration bag: tie a clear plastic bag over a leafy non-toxic branch in sun. Water condenses inside over hours. ~1 cup per bag per day.\n5. Solar still: dig a pit, place container in center, cover with plastic weighted in the middle with a small stone. Water evaporates from soil and condenses on the plastic, drips into container. Slow.\n6. Snow: melt FIRST, never eat directly — costs body heat you can't spare. Filter or boil snow water from urban or industrial areas; pristine snow can still carry contaminants.\n\nDo NOT drink:\n• Sea water — speeds dehydration.\n• Urine — same.\n• Alcohol — same.\n\nIf you're in cactus country: avoid \"drinking from cactus.\" Most species have toxic or vomit-inducing fluid. The myth that you can survive on cactus water is dangerous."
+    },
+    {
+      "id": "survival-edible",
+      "title": "Foraging — when in doubt, do NOT eat",
+      "category": "survival",
+      "tier": "core",
+      "sourceRef": "US Army FM 21-76 Universal Edibility Test + USFS warnings, retrieved 2026-05-26.",
+      "content": "MISIDENTIFIED PLANTS KILL PEOPLE. Some look-alikes (water hemlock, death cap, Datura) cause organ failure with one dose. Hunger is not fatal in 3–7 days. Misidentification is.\n\nThe safe rule: do not eat anything you cannot positively identify by an expert source. In a few-day survival situation, food is the lowest priority — focus on water, shelter, signaling for rescue.\n\nUniversal Edibility Test (USA FM 21-76 — takes a full day per plant; gives only weak protection against delayed toxins like liver/kidney damage):\n\n1. Separate the plant into parts (leaf, stem, root, flower). Test only one part at a time.\n2. Touch a small piece to your inner wrist for 15 minutes. If burning, itching, or rash develops, abandon.\n3. Touch to your lip for 3 minutes. If burning or tingling, abandon.\n4. Touch to your tongue for 15 minutes (do not swallow). If burning or numbness, abandon.\n5. Chew a small piece for 15 minutes WITHOUT swallowing. Watch for reaction.\n6. Swallow a small amount. Wait 8 hours. No food or water during the wait.\n7. If no ill effects, eat a slightly larger handful. Wait another 8 hours.\n\nNever shortcut this. Never test multiple plants in parallel. Never test in the same day as you tested a different plant.\n\nFor protein: insects (most are edible — avoid brightly colored ones and hairy caterpillars; cook to kill parasites), fish (any freshwater fish is safe to eat once cooked), small game.\n\nWhen in doubt, do not eat."
+    },
+    {
+      "id": "survival-psychological",
+      "title": "Psychological resilience",
+      "category": "survival",
+      "tier": "extended",
+      "sourceRef": "US Army Survival Manual psychological readiness + Lawrence Gonzales 'Deep Survival' research summarized in USFS materials, retrieved 2026-05-26.",
+      "content": "Statistically, attitude predicts survival outcomes more strongly than physical skill. People who give up mentally die in conditions other people walked out of.\n\nPatterns of successful survivors:\n• Stay calm under stress (STOP protocol).\n• Accept reality fast — denial wastes time. \"I am lost\" is the first useful thought.\n• Make small, actionable plans. Pick the next single task; finish it; then pick the next.\n• Maintain self-care: warm, dry, hydrated, fed. Drinking water and eating a snack improves decision-making more than people expect.\n• Find purpose: family, faith, anger, stubbornness. Whatever keeps you moving.\n• Notice beauty when you can. Sunsets and birdsong matter.\n\nPatterns of survival failures:\n• Panic — burning calories with no destination.\n• Bargaining with the situation (\"if I just keep walking it'll get better\") instead of stopping to think.\n• Giving up — sitting down to \"rest\" and not getting up.\n• Going alone when you could have stayed with a group.\n\nFear is normal and useful. Panic is fear without direction. Use STOP to convert one into the other."
     }
   ]
 }
