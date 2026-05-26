@@ -37,7 +37,7 @@
       "category": "medical",
       "tier": "core",
       "sourceRef": "CDC Stop the Bleed coalition guidance — bleeding control basics, retrieved 2026-05-26.",
-      "content": "Call your emergency number. While help is coming:\n\n1. Apply firm direct pressure with a clean cloth, gauze, or your gloved hand. Press hard. Keep pressing for at least 10 uninterrupted minutes. Do not lift the cloth to check — add more material on top.\n2. If you can, elevate the wound above the heart level.\n3. If the bleeding is life-threatening and from an arm or leg, apply a tourniquet 2–3 inches above the wound (never on a joint). Tighten until bleeding stops. Write the time on the patient's skin or forehead.\n\nDo not remove an embedded object — stabilize around it.\n\nGet to professional care. Tourniquets are limb-saving, not vehicle-bandages: once on, stay on until a clinician removes."
+      "content": "Call your emergency number. While help is coming:\n\n1. Apply firm direct pressure with a clean cloth, gauze, or your gloved hand. Press hard. Keep pressing without lifting for at least 10 minutes — and keep pressing past that until trained help takes over. Do not lift the cloth to check — add more material on top.\n2. If you can, elevate the wound above the heart level.\n3. If the bleeding is life-threatening and from an arm or leg, apply a tourniquet 2–3 inches above the wound (never on a joint). Tighten until bleeding stops. Write the time on the patient's skin or forehead.\n\nDo not remove an embedded object — stabilize around it.\n\nGet to professional care. Tourniquets are limb-saving, not vehicle-bandages: once on, stay on until a clinician removes."
     },
     {
       "id": "firstaid-burns",
@@ -51,7 +51,7 @@
       "id": "firstaid-shock",
       "title": "Shock — recognize and respond",
       "category": "medical",
-      "tier": "extended",
+      "tier": "core",
       "sourceRef": "NIH MedlinePlus — Shock first aid, retrieved 2026-05-26.",
       "content": "Shock can follow severe injury, heavy blood loss, severe allergic reaction, sepsis, dehydration, or heart problems. Signs include pale or clammy skin, rapid weak pulse, rapid shallow breathing, weakness, confusion, anxiety, or nausea.\n\nCall your emergency number. While help is coming:\n\n• Have the person lie flat. If there is no head, neck, back, or leg injury, elevate the legs about 12 inches.\n• Keep them warm — cover with a blanket or coat.\n• Loosen tight clothing.\n• Do not give food or water. They may need surgery.\n• Treat any obvious cause you can — direct pressure on bleeding, EpiPen for known anaphylaxis.\n\nShock is life-threatening. Speed of care matters."
     },
@@ -69,7 +69,7 @@
       "category": "medical",
       "tier": "core",
       "sourceRef": "CDC Stroke Signs and Symptoms — FAST acronym, retrieved 2026-05-26.",
-      "content": "Use FAST to recognize a possible stroke:\n\n• F — Face drooping. Ask the person to smile. Does one side droop?\n• A — Arm weakness. Ask them to raise both arms. Does one drift downward?\n• S — Speech difficulty. Ask them to repeat a simple sentence. Is it slurred or strange?\n• T — Time to call your emergency number. Note the exact time symptoms began.\n\nOther signs: sudden numbness on one side, sudden severe headache with no known cause, sudden trouble seeing in one or both eyes, sudden trouble walking, dizziness, or loss of balance.\n\nDo not let the person 'sleep it off.' Clot-busting treatment for ischemic stroke is most effective within hours of symptom onset. Note time-last-known-well — this is the timer clinicians use."
+      "content": "Use FAST to recognize a possible stroke:\n\n• F — Face drooping. Ask the person to smile. Does one side droop?\n• A — Arm weakness. Ask them to raise both arms. Does one drift downward?\n• S — Speech difficulty. Ask them to repeat a simple sentence. Is it slurred or strange?\n• T — Time. Call your emergency number. Note (a) when symptoms started OR (b) the last time the person was definitely normal (\"time last known well\"). This is the timer clinicians use to decide whether clot-busting treatment is still safe.\n\nOther signs: sudden numbness on one side, sudden severe headache with no known cause, sudden trouble seeing in one or both eyes, sudden trouble walking, dizziness, or loss of balance.\n\nDo not let the person 'sleep it off.' Clot-busting treatment for ischemic stroke is most effective within hours of symptom onset."
     },
     {
       "id": "firstaid-heart-attack",
@@ -77,7 +77,7 @@
       "category": "medical",
       "tier": "core",
       "sourceRef": "CDC Heart Attack Symptoms, Risk, and Recovery, retrieved 2026-05-26.",
-      "content": "Classic signs: chest pain or discomfort that feels like pressure, squeezing, fullness, or pain in the center of the chest. May last several minutes or come and go. Pain may radiate to one or both arms, the back, neck, jaw, or stomach.\n\nOther signs: shortness of breath (with or without chest discomfort), cold sweat, nausea, lightheadedness, unusual fatigue (especially in women).\n\nCall your emergency number immediately. Do not drive yourself or have someone drive you — call an ambulance. Paramedics can start treatment en route.\n\nIf the person is not allergic to aspirin and is conscious, they may chew one regular adult aspirin (325 mg) or four low-dose (81 mg) tablets while waiting. Do not give aspirin if instructed not to by a doctor, if they have an active bleed, or if it's a child."
+      "content": "Classic signs: chest pain or discomfort that feels like pressure, squeezing, fullness, or pain in the center of the chest. May last several minutes or come and go. Pain may radiate to one or both arms, the back, neck, jaw, or stomach.\n\nOther signs: shortness of breath (with or without chest discomfort), cold sweat, nausea, lightheadedness, unusual fatigue (especially in women).\n\nCall your emergency number immediately. Do not drive yourself or have someone drive you — call an ambulance. Paramedics can start treatment en route.\n\nIf the person is not allergic to aspirin and is conscious, they may chew one regular adult aspirin (325 mg) or 2–4 low-dose (81 mg) tablets while waiting — AHA range is 162–325 mg chewed. Do not give aspirin if instructed not to by a doctor, if they have an active bleed, or if it's a child."
     },
     {
       "id": "firstaid-fractures",
