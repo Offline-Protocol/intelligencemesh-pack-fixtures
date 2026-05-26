@@ -1,0 +1,51 @@
+{
+  "packId": "water",
+  "packVersion": "v1.0.0",
+  "name": "[TEST FIXTURE] Water & Sanitation",
+  "locale": "en",
+  "publishedAt": "2026-05-25T00:00:00Z",
+  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — see OFF-1373..1378 for production authoring",
+  "license": "PLACEHOLDER — not for production use",
+  "guides": [
+    {
+      "id": "water-purify-boil",
+      "title": "Boiling for safe water",
+      "category": "survival",
+      "tier": "core",
+      "content": "[TEST FIXTURE — placeholder.]\n\nBoiling kills bacteria, viruses, and parasites. Bring water to a rolling boil for at least 1 minute (3 minutes at elevations above 6,500 feet). Let cool before drinking.\n\nBoiling does not remove chemical contamination — only biological. If the water is also chemically contaminated (gas leak, agricultural runoff, industrial spill), boiling can concentrate the chemicals. Use a different source if you suspect chemical contamination.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "water-purify-chemical",
+      "title": "Chemical disinfection — chlorine and iodine",
+      "category": "survival",
+      "tier": "core",
+      "content": "[TEST FIXTURE — placeholder. Follow specific tablet/dropper instructions; this is a rough reference.]\n\nUnscented household bleach (5-9% sodium hypochlorite): 8 drops per gallon of clear water, 16 drops if cloudy. Stir and wait 30 minutes. Water should have a slight chlorine smell — if not, add another dose and wait 15 more minutes.\n\nIodine tablets work similarly per package directions. Iodine is not safe for long-term use, pregnant people, or those with thyroid conditions.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "water-storage",
+      "title": "Safe water storage",
+      "category": "survival",
+      "tier": "core",
+      "content": "[TEST FIXTURE — placeholder.]\n\nStore at least 1 gallon per person per day for at least 3 days (2 weeks ideal). Use food-grade containers; clean them with dish soap and rinse before filling. Avoid containers that held milk or juice — residues feed bacteria.\n\nReplace stored water every 6 months. Keep containers sealed, in a cool dark place. Label with the fill date.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "water-rationing",
+      "title": "Rationing in an emergency",
+      "category": "survival",
+      "tier": "core",
+      "content": "[TEST FIXTURE — placeholder.]\n\nIn hot climates or with exertion, a person can need 4+ liters per day. The 1-gallon minimum is a survival floor, not a comfort target.\n\nDon't ration drinking water severely — dehydration kills faster than thirst. Instead, reduce activity, stay in shade, and prioritize hydration over food (you can go weeks without food, but only days without water). Sip slowly rather than gulping.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "water-latrine",
+      "title": "Latrine siting and sanitation",
+      "category": "survival",
+      "tier": "extended",
+      "content": "[TEST FIXTURE — placeholder.]\n\nDig latrines at least 200 feet (60 meters) downhill from any water source, well, or kitchen area. A simple pit 3 feet deep, covered with dirt after each use, works for short-term use.\n\nWash hands with soap and water after using the latrine and before handling food. If soap is unavailable, sand or ash with water is better than nothing. Keep handwashing and food prep stations well separated from waste areas.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    }
+  ]
+}

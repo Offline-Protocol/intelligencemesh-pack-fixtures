@@ -1,0 +1,51 @@
+{
+  "packId": "farm",
+  "packVersion": "v1.0.0",
+  "name": "[TEST FIXTURE] Garden & Food Storage",
+  "locale": "en",
+  "publishedAt": "2026-05-25T00:00:00Z",
+  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — see OFF-1373..1378 for production authoring",
+  "license": "PLACEHOLDER — not for production use",
+  "guides": [
+    {
+      "id": "farm-staples",
+      "title": "High-calorie staple crops",
+      "category": "food",
+      "tier": "core",
+      "content": "[TEST FIXTURE — placeholder.]\n\nFor calorie efficiency per square foot, consider potatoes, sweet potatoes, winter squash, and dry beans. Corn yields well but needs more space. Cabbage and kale extend the harvest into cool weather.\n\nGrowing zones matter — check the USDA zone for your region (or the equivalent map for your country) before planting. The same crop can be a 90-day or 120-day variety; pick what matches your frost dates.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "farm-container",
+      "title": "Container gardening for apartments",
+      "category": "food",
+      "tier": "core",
+      "content": "[TEST FIXTURE — placeholder.]\n\nUse food-safe containers with drainage holes. Lettuce, herbs, peppers, and cherry tomatoes do well in containers. Larger crops (zucchini, kale, dwarf tomatoes) need 5+ gallon pots.\n\nWater more often than ground beds — containers dry out fast. Use a quality potting mix, not garden soil. Feed every few weeks with diluted fertilizer; nutrients leach out with watering.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "farm-canning",
+      "title": "Canning safety — botulism prevention",
+      "category": "food",
+      "tier": "core",
+      "content": "[TEST FIXTURE — placeholder. Follow NCHFP guidance precisely for any canning. Home canning errors cause botulism, which can be fatal.]\n\nHigh-acid foods (pH 4.6 or below — most fruits, pickles with adequate vinegar) can be safely water-bath canned.\n\nLow-acid foods (vegetables, meats, soups, mixes) MUST be pressure canned — boiling water cannot reach the temperature needed to kill botulinum spores. Use a tested recipe from the National Center for Home Food Preservation or similar authoritative source. Never reuse single-use lids; the seal compound is one-time-only.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "farm-root-cellar",
+      "title": "Root cellar basics",
+      "category": "food",
+      "tier": "extended",
+      "content": "[TEST FIXTURE — placeholder.]\n\nIdeal storage: 32-40°F (0-4°C), 85-95% humidity, dark, well-ventilated.\n\nGood crops for root storage: potatoes, carrots, beets, turnips, parsnips, cabbage, winter squash, onions, garlic. Different crops want different humidity; segregate if possible (onions/garlic prefer drier; carrots/beets prefer humid).\n\nA spare basement room, insulated outdoor pit, or buried trash can lined with straw can serve as a starter root cellar.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "farm-pantry",
+      "title": "Shelf-stable pantry basics",
+      "category": "food",
+      "tier": "extended",
+      "content": "[TEST FIXTURE — placeholder.]\n\nFirst-in, first-out rotation: place new purchases at the back, use the oldest first. Label with purchase date if packaging doesn't show one.\n\nLong shelf life staples: rice, dry beans, rolled oats, pasta, peanut butter, canned vegetables and meats, honey, salt, sugar, vinegar. Keep in airtight containers in a cool dark place. Mylar bags with oxygen absorbers extend shelf life of grains to decades.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "packId": "shelter",
+  "packVersion": "v1.0.0",
+  "name": "[TEST FIXTURE] Shelter & Warmth",
+  "locale": "en",
+  "publishedAt": "2026-05-25T00:00:00Z",
+  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — see OFF-1373..1378 for production authoring",
+  "license": "PLACEHOLDER — not for production use",
+  "guides": [
+    {
+      "id": "shelter-debris",
+      "title": "Building a debris shelter",
+      "category": "survival",
+      "tier": "core",
+      "content": "[TEST FIXTURE — placeholder.]\n\nA debris shelter uses fallen branches, leaves, and natural cover for insulation when you have no tent or tarp. Find a sturdy ridgepole (a long branch) and lean it against a tree about waist high. Add ribs (smaller branches) at 45 degrees on both sides. Layer leaves and debris 2-3 feet thick over the whole structure for insulation.\n\nInside should be just big enough for your body — too much space means you can't warm it with your body heat. Insulate the floor with at least 6 inches of leaves to stop heat loss into the ground.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "shelter-tarp",
+      "title": "Tarp shelter configurations",
+      "category": "survival",
+      "tier": "core",
+      "content": "[TEST FIXTURE — placeholder.]\n\nA-frame: rope between two trees, tarp draped over, corners staked. Simple and sheds rain in any direction.\n\nLean-to: one edge of the tarp anchored on the ground, the other angled up. Good if you have a fire — the angled tarp reflects heat back to you.\n\nPlow point: stake three corners to the ground, raise the fourth on a stick or rope. Aerodynamic in wind.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "shelter-hypothermia",
+      "title": "Recognizing and treating hypothermia",
+      "category": "survival",
+      "tier": "core",
+      "content": "[TEST FIXTURE — placeholder.]\n\nStages: mild (uncontrollable shivering, slurred speech, clumsy hands), moderate (shivering may stop, confusion, drowsiness), severe (unconsciousness, weak or absent pulse).\n\nTreatment: remove wet clothing, replace with dry layers, get out of wind, share body heat in a sleeping bag if possible, give warm sweet drinks if conscious. Handle a severely hypothermic person gently — rough handling can trigger cardiac arrest. Get to professional medical care.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "shelter-fire",
+      "title": "Fire building basics",
+      "category": "survival",
+      "tier": "core",
+      "content": "[TEST FIXTURE — placeholder.]\n\nStart with tinder (dry grass, birch bark, cotton ball), build up through kindling (pencil-thick sticks), then add larger fuel.\n\nClear a 10-foot area down to dirt or rock. Have water or dirt nearby to extinguish. Never leave a fire unattended. Drown coals with water and stir until cold to the touch before walking away. In wildfire-prone areas, check local restrictions before lighting any fire.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "shelter-stay-or-go",
+      "title": "The stay-or-go decision",
+      "category": "survival",
+      "tier": "extended",
+      "content": "[TEST FIXTURE — placeholder.]\n\nStay if: you told someone your route and they will alert rescuers, you have shelter and water, the terrain is bad for travel, weather is dangerous, you have an injured person, or it is near nightfall.\n\nGo if: no one knows where you are, you are clearly within walking distance of safety with daylight to spare, your current location is itself dangerous (rising water, fire), or you have a strong signal indicating direction (sound of road, lights at night).",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    }
+  ]
+}

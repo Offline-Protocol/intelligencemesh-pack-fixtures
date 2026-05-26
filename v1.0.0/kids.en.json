@@ -1,0 +1,51 @@
+{
+  "packId": "kids",
+  "packVersion": "v1.0.0",
+  "name": "[TEST FIXTURE] Care for Children",
+  "locale": "en",
+  "publishedAt": "2026-05-25T00:00:00Z",
+  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — see OFF-1373..1378 for production authoring",
+  "license": "PLACEHOLDER — not for production use",
+  "guides": [
+    {
+      "id": "kids-fever",
+      "title": "Fevers by age",
+      "category": "medical",
+      "tier": "core",
+      "content": "[TEST FIXTURE — placeholder. Always consult a pediatrician for sick children, especially infants.]\n\nUnder 3 months: any rectal temperature 100.4°F (38°C) or higher is a medical emergency. Go to the ER.\n\n3-6 months: 101°F (38.3°C) or higher — call your pediatrician.\n\n6 months and older: a fever alone isn't usually dangerous; look at how the child is acting. Lethargy, refusal to drink, stiff neck, severe headache, or rash with fever are red flags that need immediate medical attention.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "kids-dehydration",
+      "title": "Signs of dehydration",
+      "category": "medical",
+      "tier": "core",
+      "content": "[TEST FIXTURE — placeholder.]\n\nMild to moderate: dry lips, fewer wet diapers (less than 1 every 6-8 hours for infants), no tears when crying, sunken soft spot on the head (infants), lethargy.\n\nSevere: very dry mouth, no urination for 8+ hours, sunken eyes, cold or blotchy hands and feet, extreme sleepiness or unresponsiveness. Severe dehydration is a medical emergency. For mild cases, offer small frequent sips of an oral rehydration solution; don't give plain water alone to infants under 6 months.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "kids-cpr-infant",
+      "title": "Infant CPR — cross-reference",
+      "category": "medical",
+      "tier": "core",
+      "content": "[TEST FIXTURE — placeholder.]\n\nFull technique is in the First Aid pack's pediatric CPR guide. Key points for infants under 1 year:\n\nTwo fingers in the center of the chest, just below the nipple line. Compress to about 1.5 inches (one third of chest depth). Rate of 100-120 per minute. If alone: 30 compressions to 2 breaths. With a second rescuer: 15 compressions to 2 breaths.\n\nBreaths: cover both nose and mouth with your mouth, gentle puffs only — adult-size breaths can damage tiny lungs.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "kids-rashes",
+      "title": "Common childhood rashes — when to worry",
+      "category": "medical",
+      "tier": "extended",
+      "content": "[TEST FIXTURE — placeholder.]\n\nMost rashes are minor (heat rash, eczema, viral exanthems). Worry when a rash appears with fever, doesn't fade when pressed with a glass tumbler (could be meningitis), spreads rapidly, includes blisters or open sores, or appears around the eyes/mouth with breathing trouble (allergic reaction).\n\nFor minor rashes: keep the skin clean and dry, avoid known irritants, use plain moisturizer. Call your pediatrician if it spreads, worsens, or is accompanied by other symptoms.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "kids-er-vs-urgent",
+      "title": "ER vs urgent care vs pediatrician",
+      "category": "medical",
+      "tier": "extended",
+      "content": "[TEST FIXTURE — placeholder.]\n\nER: trouble breathing, severe allergic reaction, head injury with loss of consciousness or vomiting, suspected broken bones with deformity, severe burns, severe abdominal pain, seizures, infants under 3 months with fever, any change in mental status.\n\nUrgent care: high fever responding to medication, minor sprains, mild cuts needing stitches, ear infections, rashes without fever.\n\nPediatrician (next day or call): ongoing cold symptoms, mild fever, school physicals, medication questions, growth concerns.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    }
+  ]
+}

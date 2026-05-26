@@ -1,0 +1,51 @@
+{
+  "packId": "legal",
+  "packVersion": "v1.0.0",
+  "name": "[TEST FIXTURE] Rights & Legal Basics",
+  "locale": "en",
+  "publishedAt": "2026-05-25T00:00:00Z",
+  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — see OFF-1373..1378 for production authoring",
+  "license": "PLACEHOLDER — not for production use",
+  "guides": [
+    {
+      "id": "legal-not-advice",
+      "title": "Not legal advice — start here",
+      "category": "legal",
+      "tier": "core",
+      "content": "[TEST FIXTURE — placeholder. This pack is general information only, US-centric for v1, and is NOT legal advice. Laws vary by jurisdiction and change over time. Consult a licensed attorney for any specific situation. If in doubt, ask for a lawyer and stay silent.]\n\nThe guides in this pack are intended to help you know your options when communications are down and you need to interact with authorities. They are not a substitute for legal counsel and should not be used to make consequential decisions in real situations.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "legal-detained",
+      "title": "If you are detained",
+      "category": "legal",
+      "tier": "core",
+      "content": "[TEST FIXTURE — placeholder. Not legal advice.]\n\nYou generally have the right to remain silent. State clearly: \"I want to remain silent\" and \"I want a lawyer.\" Repeat if questioning continues.\n\nDo not resist physically even if you believe the detention is unjust — document, do not litigate on the street. If you have ID, you may be required to provide it depending on jurisdiction. Beyond your name, you typically do not have to answer further questions.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "legal-recording",
+      "title": "Recording interactions with authorities",
+      "category": "legal",
+      "tier": "extended",
+      "content": "[TEST FIXTURE — placeholder. Not legal advice.]\n\nIn most US jurisdictions you have the right to record police and other public officials performing public duties in public spaces. This right is well-established but enforcement varies.\n\nKeep your phone visible. Do not interfere with officials performing their work. Step back if instructed. If your phone is seized, do not consent to a search of it — make that refusal clear and verbal. Audio recording laws (one-party vs all-party consent) vary by state for private conversations.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "legal-fema",
+      "title": "Disaster declarations and FEMA assistance",
+      "category": "legal",
+      "tier": "extended",
+      "content": "[TEST FIXTURE — placeholder.]\n\nAfter a federally declared disaster, individuals can apply for FEMA assistance. The program covers things insurance does not — temporary housing, essential home repairs, certain personal property losses, transportation.\n\nApply online at disasterassistance.gov or by phone. Keep records: photos of damage taken before clean-up, receipts for expenses, insurance correspondence. FEMA does not duplicate insurance, but may cover gaps. Appeals are possible if your initial application is denied.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    },
+    {
+      "id": "legal-insurance",
+      "title": "Insurance documentation",
+      "category": "legal",
+      "tier": "extended",
+      "content": "[TEST FIXTURE — placeholder.]\n\nBefore disaster: photograph every room, including inside closets and cabinets. Make a written or video inventory of valuables with model numbers and approximate purchase dates. Store the inventory off-site (cloud, safe deposit, with a trusted relative).\n\nAfter disaster: document damage before cleaning. Keep receipts for emergency repairs and temporary lodging. Report claims promptly. Do not sign permanent repair contracts without checking the contractor's licensing and references.",
+      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring under OFF-1373..1378 will replace this with a CDC/FEMA/NIH/etc citation."
+    }
+  ]
+}
