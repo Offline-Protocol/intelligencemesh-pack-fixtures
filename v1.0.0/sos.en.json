@@ -1,51 +1,51 @@
 {
   "packId": "sos",
   "packVersion": "v1.0.0",
-  "name": "[TEST FIXTURE] Emergency Signaling",
+  "name": "Emergency Signaling",
   "locale": "en",
-  "publishedAt": "2026-05-25T00:00:00Z",
-  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — placeholder content, not for production. Real authoring will replace this with cited content.",
-  "license": "PLACEHOLDER — not for production use",
+  "publishedAt": "2026-05-26T00:00:00Z",
+  "sourceAttribution": "Compiled from ICAO ground-to-air signal standards, US Coast Guard distress guidance, ARRL emergency communications resources, and public-domain wilderness signaling references.",
+  "license": "CC-BY-4.0 (compilation); source citations carry their own public-domain or open license",
   "guides": [
     {
       "id": "sos-morse",
-      "title": "SOS in Morse code",
+      "title": "SOS — Morse code",
       "category": "disaster",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nSOS is three dots, three dashes, three dots: ... --- ... It is a continuous sequence with no letter spacing in between — that's what distinguishes it from the letters S, O, S sent separately.\n\nYou can signal SOS with a flashlight, mirror, whistle, fire/smoke pattern, or by tapping on metal. The pattern is the same regardless of medium. International recognition makes it the most reliable distress signal.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "International Telecommunication Union — international distress signal (... --- ...), retrieved 2026-05-26.",
+      "content": "SOS is three dots, three dashes, three dots: ... --- ...\n\nIt's sent as ONE continuous sequence with no letter spacing — that's what distinguishes it from sending the letters S, O, S separately. The pattern was chosen because it's simple to send under stress and unmistakable to receive.\n\nYou can signal SOS with any medium that can produce short and long pulses:\n• Flashlight (short flash, short flash, short flash, long, long, long, short, short, short)\n• Mirror flashes\n• Whistle blasts\n• Tapping on metal\n• Smoke puffs (cover and uncover a fire)\n• Fire — three fires in a triangle\n\nThe pattern is internationally recognized. Repeat continuously with a short pause between groups."
     },
     {
       "id": "sos-ground-to-air",
       "title": "Ground-to-air visual signals",
       "category": "disaster",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder. Refer to ICAO standards for authoritative shapes.]\n\nLay symbols out 3+ meters tall using contrasting material (rocks, branches, gear, fabric). The standard set:\n\nV — Require assistance\nX — Require medical assistance\nN — No\nY — Yes\n→ — Proceeding in this direction\n\nLocate signals in an open area visible from the air. Refresh outlines if wind or weather disturbs them.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "ICAO Annex 12 (Search and Rescue) visual signal codes, retrieved 2026-05-26.",
+      "content": "Lay symbols out at least 3 meters (10 feet) tall using high-contrast material — rocks, branches, gear, fabric, footprints in snow. Put them in an OPEN area visible from the air.\n\nStandard ICAO codes:\n• V — Require assistance\n• X — Require medical assistance (most urgent)\n• N — No\n• Y — Yes\n• → (arrow) — Proceeding in this direction\n• F — Need food and water\n• II — Need medical supplies\n\nKeep symbols straight and large. Refresh outlines after wind or weather. If you have a fire, three of them in a triangle is the universal distress signal — visible day (smoke) and night (light).\n\nWhen aircraft fly over: stand in the open, wave both arms slowly above your head (do NOT wave one arm — that means \"I'm OK\"). Signal mirror flashes are visible from miles."
     },
     {
-      "id": "sos-signal-mirror",
+      "id": "sos-mirror",
       "title": "Using a signal mirror",
       "category": "disaster",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nReflective sunlight can be seen for tens of miles. Hold the mirror near your eye, extend your other hand toward the target (aircraft, distant person), and tilt the mirror to bounce a sun spot onto your hand. Then slide the spot off your hand toward the target.\n\nFlash the reflection in 3-3-3 SOS rhythm if you have time. Even random flashes attract attention — keep sweeping if you have no specific target.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "US Coast Guard + US Air Force survival training public materials, retrieved 2026-05-26.",
+      "content": "A reflective sunlight flash can be seen for tens of miles — sometimes 50+ miles by aircraft. The most effective signaling tool besides radio.\n\nTechnique:\n1. Hold the mirror near your eye.\n2. Extend your other hand toward the target (aircraft, ship, distant person). Make a V with two fingers if it helps frame the target.\n3. Tilt the mirror so a bright sun spot lands on your hand.\n4. Slide the spot off your hand toward the target.\n\nFlash in 3-3-3 SOS rhythm if you have time. Even random flashes — sweeping the horizon when no specific target is visible — attract attention from search aircraft.\n\nCovered mirror or signal panel: at night, use a flashlight in 3-flash pattern instead.\n\nIn open ocean, dye markers and orange smoke flares are visible. Signal mirrors work even when flares are exhausted."
     },
     {
       "id": "sos-three-rule",
       "title": "The rule of three",
       "category": "disaster",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nThree of anything is the universal distress signal: three fires arranged in a triangle, three whistle blasts, three shouts, three gunshots, three flashes of light.\n\nGroups of three are intentional and contrast with natural patterns, which is why they read as deliberate signaling. Pause for 30 seconds between groups, then repeat.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "International wilderness search-and-rescue convention, retrieved 2026-05-26.",
+      "content": "Three of anything is the universal distress signal:\n• Three fires in a triangle\n• Three whistle blasts\n• Three shouts\n• Three gunshots (if armed)\n• Three flashlight flashes\n• Three smoke columns\n\nGroups of three contrast with natural patterns, which is why they read as deliberate signaling to searchers.\n\nPause for 30 seconds to a minute between groups, then repeat. Continuous noise blends with environmental sound; spaced groups stand out.\n\nA single fire can look natural. Three deliberately spaced fires cannot. The same logic applies to all signaling — patterns matter more than volume."
     },
     {
-      "id": "sos-channel-16",
-      "title": "Marine VHF channel 16",
+      "id": "sos-marine",
+      "title": "Marine distress — channel 16, EPIRB, flares",
       "category": "disaster",
       "tier": "extended",
-      "content": "[TEST FIXTURE — placeholder. Get marine VHF training before relying on this.]\n\nChannel 16 is the international maritime distress, safety, and calling frequency (156.8 MHz). Always monitored by coast guards worldwide.\n\nDistress call format: Mayday Mayday Mayday — vessel name — vessel name — vessel name — position — nature of distress — number of people on board — over. Speak slowly and clearly. Repeat if no response.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "US Coast Guard + International Maritime Organization public guidance, retrieved 2026-05-26.",
+      "content": "VHF channel 16 (156.8 MHz) is the international maritime distress, safety, and calling frequency. Always monitored by coast guards worldwide.\n\nDistress call format:\n1. Mayday Mayday Mayday\n2. \"This is [vessel name]\" — say it three times\n3. Your position (GPS coordinates, or bearing+distance from a known point)\n4. Nature of distress (fire, sinking, medical emergency, etc.)\n5. Number of people on board\n6. Any other useful info (life raft, abandoning, drifting)\n7. \"Over.\"\n\nSpeak slowly and clearly. Repeat if no response in 30 seconds.\n\nEPIRB (Emergency Position-Indicating Radio Beacon): activates automatically when wet (or manually). Transmits your GPS location to satellites. Register it before you sail.\n\nFlares: red parachute flares are for distress. White flares are for collision avoidance. Hand-held orange smoke is for daytime visibility. Always know which is which — they're not interchangeable.\n\nDay shapes: a black ball over a diamond over a ball means a vessel in distress requiring assistance."
     }
   ]
 }

@@ -1,51 +1,51 @@
 {
   "packId": "evac",
   "packVersion": "v1.0.0",
-  "name": "[TEST FIXTURE] Evacuation Routes & Shelters",
+  "name": "Evacuation Routes & Shelters",
   "locale": "en",
-  "publishedAt": "2026-05-25T00:00:00Z",
-  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — placeholder content, not for production. Real authoring will replace this with cited content.",
-  "license": "PLACEHOLDER — not for production use",
+  "publishedAt": "2026-05-26T00:00:00Z",
+  "sourceAttribution": "Compiled from FEMA Ready.gov, American Red Cross public shelter guidance, and Department of Transportation evacuation route research. Local knowledge always overrides general guidance.",
+  "license": "CC-BY-4.0 (compilation); source citations carry their own public-domain license",
   "guides": [
     {
       "id": "evac-when",
       "title": "When to evacuate vs shelter in place",
       "category": "disaster",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nFollow official orders when they exist — they are based on situational data you don't have. Mandatory means leave; voluntary means leave if you have any vulnerability (medical, mobility, dependents, no power).\n\nWithout an official order, evacuate if your location is directly threatened (rising flood, approaching fire), if utilities are unsafe or absent for days, or if you cannot meet basic needs. Otherwise sheltering in place is usually safer than competing for roads with thousands of others.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "FEMA Ready.gov Evacuation + Shelter-in-Place guidance, retrieved 2026-05-26.",
+      "content": "Follow official orders when they exist — they're based on situational data you don't have.\n\n• Mandatory order: leave. Even if you've stayed before. Conditions change.\n• Voluntary order: leave if you have any vulnerability — medical, mobility, dependents, no power backup, pets without supplies.\n\nWithout an official order, evacuate if:\n• Your location is directly threatened (rising flood, approaching fire, lahar zone).\n• Utilities are unsafe (gas leak, downed lines you can't avoid).\n• You can't meet basic needs (no water, no heat in winter, no cooling in extreme heat).\n• Communication is cut and you have no situational awareness.\n\nShelter in place if:\n• Threat is chemical/biological/radiological release with shelter time advantage.\n• Outdoor travel is more dangerous than staying (active tornado, deep cold, fire on access roads).\n• You're advised to by authorities (e.g., hazmat plume).\n\nFor shelter-in-place from airborne hazard: close windows and doors, shut off HVAC, seal gaps with wet towels or tape, go to an interior room without windows, monitor official alerts."
     },
     {
       "id": "evac-gobag",
       "title": "Go-bag contents",
       "category": "disaster",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nWater (1 gallon per person per day, 3 days minimum), non-perishable food, manual can opener, flashlight + batteries, battery or hand-crank radio, first-aid kit, prescriptions and copies of medication lists, cash in small bills, copies of important documents in waterproof bag, change of clothing per person, basic toiletries, hand sanitizer, baby/pet supplies if relevant, glasses spare pair, charger and battery pack.\n\nKeep the bag near the door. Replace water every 6 months and food yearly.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "FEMA Ready.gov Build A Kit + American Red Cross emergency kit list, retrieved 2026-05-26.",
+      "content": "Pack one bag per person; keep them near the door.\n\nWater: 1 gallon per person per day, 3-day minimum.\n\nFood: non-perishable, no-cook preferred. Energy bars, peanut butter, canned tuna/beans, dried fruit, jerky. Manual can opener.\n\nLight & power: flashlight + extra batteries, hand-crank or battery radio (NOAA weather radio if available), power bank, charging cables for your phone.\n\nFirst aid: kit with bandages, gauze, tape, antiseptic, pain reliever, prescription medications (7-day supply), copies of prescriptions, allergy meds.\n\nDocuments (in a waterproof bag): photo ID, insurance cards, medication list, emergency contact list, copies of deeds/titles, recent family photos for re-identification if separated.\n\nMoney: $100–200 in small bills. ATMs and card readers fail in outages.\n\nClothing: one change per person. Sturdy shoes. Rain gear. Layered for the season.\n\nHygiene: soap, hand sanitizer, toothbrush/paste, feminine supplies, toilet paper, garbage bags.\n\nSpecial items: baby formula and diapers, pet food and bowls, glasses spare pair, hearing aid batteries, mobility aids.\n\nRotate water every 6 months, food yearly."
     },
     {
       "id": "evac-routes",
       "title": "Route planning — multiple options",
       "category": "disaster",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nMap at least two evacuation routes from home, work, and your children's school — primary and backup. Avoid sole reliance on freeways which jam fast in a real evac.\n\nKeep your fuel tank at least half full during high-risk seasons. Note bridges, low-lying roads, and one-way streets — any of these can be cut by the same disaster you're fleeing. Have a meeting point both inside and outside the danger area in case you get separated.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "FEMA + state DOT emergency evacuation planning resources, retrieved 2026-05-26.",
+      "content": "Plan at least two evacuation routes from each location you spend significant time: home, work, kids' school.\n\n• Primary route: fastest under normal conditions.\n• Backup route: avoids the same chokepoints (different bridges, different freeway). If the primary is the freeway, backup is surface streets.\n• Worst case: walking route. Know it.\n\nFuel:\n• Keep your tank at least half full during high-risk seasons (hurricane, wildfire).\n• Gas stations lose power in outages. Lines stretch hours.\n\nMap considerations:\n• Note bridges, low-lying roads, one-way streets — any can be cut by the same disaster you're fleeing.\n• Avoid sole reliance on freeways during evacuations — they jam to a halt.\n• Note location of fuel stations, hospitals, fire stations, and high ground along each route.\n\nMeeting points:\n• Have a meeting point INSIDE your neighborhood (e.g., the corner) in case of house fire.\n• Have an out-of-region meeting point (relative's house in a different state) for regional disasters.\n• Designate an out-of-state contact for everyone to check in with — local lines often fail when long-distance still works.\n\nPractice. Drive each route at least once. Walk one if possible."
     },
     {
       "id": "evac-special-needs",
       "title": "Evacuating with special needs",
       "category": "disaster",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nPets: carriers ready, leash, food, water, vaccination records, current photo. Most public shelters do not accept pets — locate pet-friendly hotels or boarding ahead of time.\n\nMobility: pre-arrange transport assistance with your local emergency management agency. Don't wait until the order to register. If you depend on power for medical equipment, know how long your battery backup lasts and identify a destination with reliable power.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "FEMA + American Red Cross guidance on accessible emergency preparedness, retrieved 2026-05-26.",
+      "content": "Pets:\n• Carrier per pet, leash, food and water for 5+ days, vaccination records, current photo, medications.\n• Most public shelters do NOT accept pets — locate pet-friendly hotels, boarding kennels, or friends/family beforehand. Some Red Cross shelters now have pet annexes but not all.\n• Never leave pets behind.\n\nMobility:\n• Pre-arrange transport assistance with your local emergency management agency — register BEFORE the order, not during. Many counties have a Functional Needs Registry.\n• Pack mobility-aid spares (wheelchair batteries, walker tips).\n• Know the location of accessible shelters.\n\nMedical equipment dependent on power:\n• Know how long your battery backup lasts (CPAP, oxygen concentrator, infusion pump).\n• Identify destinations with reliable power (hospitals, hotels with backup generators).\n• Have a manual / battery-powered alternative if possible.\n• Talk to your supplier about emergency arrangements.\n\nMedications:\n• 7–14 day supply in your go-bag. Refresh every 3 months (medications expire).\n• Carry a written list with dosages and prescribing doctor.\n• Refrigerated meds: insulated bag with cold packs."
     },
     {
       "id": "evac-shelter-intake",
-      "title": "What to expect at a public shelter",
+      "title": "Public shelter — what to expect",
       "category": "disaster",
       "tier": "extended",
-      "content": "[TEST FIXTURE — placeholder.]\n\nExpect to register, show ID if you have it (a missing ID will not turn you away), and answer basic health questions. Cots and blankets are usually provided. Privacy is minimal — bring your own pillow if comfort matters.\n\nMeals are basic. Quiet hours are enforced. Most shelters do not allow alcohol or firearms. Bring activities for children and any medications you depend on. Smoking areas are outside and away from doors.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "American Red Cross + FEMA disaster shelter operations guidance, retrieved 2026-05-26.",
+      "content": "Most shelters are run by the American Red Cross or local emergency management.\n\nAt intake:\n• Registration — name, contact, basic health info. You'll receive a wristband or similar.\n• Lack of ID will NOT turn you away.\n• Health screening — basic questions to identify those needing immediate medical care.\n\nWhat's provided:\n• Cots and blankets (bring your own pillow if comfort matters).\n• Three meals per day, typically simple — bring snacks if you have dietary needs.\n• Water, basic toiletries, restrooms.\n• A safe place to sleep.\n• Information updates.\n\nWhat to bring:\n• Your own essentials (clothing change, hygiene items, medications, comfort items, phone charger).\n• Activities for kids — books, small games, comfort toys.\n• Pillow and sleep mask if light/noise-sensitive.\n\nShelter rules vary but commonly:\n• Quiet hours enforced (typically 10pm–6am).\n• No alcohol, no firearms on premises.\n• Smoking only in designated outdoor areas.\n• Pets generally not allowed unless it's a pet-friendly shelter (ask before arrival).\n\nPrivacy is limited. Bring patience."
     }
   ]
 }

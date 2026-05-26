@@ -1,59 +1,83 @@
 {
   "packId": "disaster",
   "packVersion": "v1.0.0",
-  "name": "[TEST FIXTURE] Disaster Preparedness",
+  "name": "Disaster Preparedness",
   "locale": "en",
-  "publishedAt": "2026-05-25T00:00:00Z",
-  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — placeholder content, not for production. Real authoring will replace this with cited content.",
-  "license": "PLACEHOLDER — not for production use",
+  "publishedAt": "2026-05-26T00:00:00Z",
+  "sourceAttribution": "Compiled from FEMA Ready.gov, USGS, NOAA/NWS, CDC, and USFS public-domain guidance. NOT a substitute for official local hazard plans — know your zone.",
+  "license": "CC-BY-4.0 (compilation); source citations carry their own public-domain license",
   "guides": [
     {
       "id": "disaster-earthquake",
-      "title": "Earthquake — drop, cover, hold",
+      "title": "Earthquake — Drop, Cover, Hold On",
       "category": "disaster",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder. Defer to FEMA Ready.gov or USGS for current guidance.]\n\nDuring shaking: DROP to your hands and knees, take COVER under a sturdy desk or table, and HOLD ON until the shaking stops. If no shelter is near, drop next to an interior wall, cover your head with your arms, and stay away from windows and exterior walls.\n\nAfter: check yourself and others, expect aftershocks, check for gas leaks (smell only — do not use a flame), turn off utilities if damaged, and stay out of damaged buildings.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "USGS Earthquake Hazards Program + FEMA Ready.gov Earthquake guidance, retrieved 2026-05-26.",
+      "content": "During shaking:\n\n• DROP to your hands and knees so you don't get knocked over.\n• Take COVER under a sturdy desk or table. If no shelter, get next to an interior wall, away from windows.\n• HOLD ON to your shelter (or your head) until shaking stops.\n\nDo NOT run outside during shaking — falling debris is the largest cause of injury. Do NOT stand in a doorway (modern doorways are not stronger than other framing and you may be hit by a swinging door).\n\nIf in bed, stay there and cover your head with a pillow.\n\nIf driving, pull over away from buildings, overpasses, and power lines. Stop. Stay inside the vehicle.\n\nAfter:\n• Expect aftershocks (sometimes large).\n• Check yourself and others for injury.\n• Smell for gas — if you smell it, leave immediately, do not flip switches.\n• If a building is damaged, evacuate.\n• Tune to local news for tsunami warnings if near coast."
     },
     {
       "id": "disaster-flood",
-      "title": "Flood — evacuation triggers and contamination",
+      "title": "Flood — Turn Around, Don't Drown",
       "category": "disaster",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nIf evacuation is ordered, leave immediately. Never drive through standing or moving water — 6 inches can knock you down, 12 inches can sweep a car away. Turn around, don't drown.\n\nIf trapped, move to the highest floor. Avoid attics that lack roof access. After the water recedes, assume everything that got wet is contaminated. Don't drink tap water until authorities clear it. Discard food that touched flood water.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "FEMA Ready.gov Floods + NOAA/NWS Turn Around Don't Drown campaign, retrieved 2026-05-26.",
+      "content": "If an evacuation order is issued for your area, leave immediately. Do not wait to see what happens.\n\nNever drive through standing or moving water:\n• 6 inches of moving water can knock an adult down.\n• 12 inches can carry away most cars.\n• 18–24 inches can sweep away SUVs and trucks.\n\nIf trapped in a building, move to the highest floor. Avoid attics that lack roof access — you can be trapped by rising water. Only go on the roof if needed; signal for help.\n\nAfter the water recedes:\n• Assume all flood water is contaminated (sewage, chemicals, debris).\n• Do not drink tap water until authorities confirm it's safe.\n• Discard food that touched flood water — including canned goods that aren't sealed.\n• Watch for downed power lines and snakes.\n• Mold is the next risk — dry everything fast."
     },
     {
       "id": "disaster-hurricane",
-      "title": "Hurricane — Saffir-Simpson and evacuation zones",
+      "title": "Hurricane — know your zone, leave early",
       "category": "disaster",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nCategories 1 and 2 are dangerous; Category 3 and above are major hurricanes with devastating wind and storm surge. Storm surge is the biggest killer — know your evacuation zone before the season starts.\n\nIf an evacuation is ordered for your zone, leave well before landfall. Roads back up. If sheltering in place, fill the tub with water, charge devices, secure outdoor items, and stay away from windows.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "NOAA National Hurricane Center + FEMA Ready.gov Hurricanes, retrieved 2026-05-26.",
+      "content": "Saffir-Simpson categories:\n• Cat 1–2: dangerous wind and storm surge\n• Cat 3+: major hurricane; devastating damage. Storm surge is the largest killer.\n\nBefore the season starts:\n• Know your evacuation zone (county/parish maps).\n• Have an evacuation plan and go-bag.\n• Know multiple routes inland; coastal roads bottleneck.\n\nWhen warnings issue:\n• If ordered to evacuate, leave well before landfall — roads back up fast.\n• If sheltering in place: fill the tub with water, charge devices, secure outdoor items, stay away from windows.\n• Have a battery or hand-crank radio.\n• Stay through the eye — the back side of the storm can be worse.\n\nAfter:\n• Wait for the all-clear before going outside.\n• Watch for downed power lines, gas leaks, flood water, snakes, debris.\n• Don't drink tap water until authorities clear it.\n• Most hurricane deaths happen during cleanup, not the storm — be careful with chainsaws, ladders, and generators."
     },
     {
       "id": "disaster-wildfire",
       "title": "Wildfire — defensible space and evacuation",
       "category": "disaster",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nClear flammable material (dry brush, leaves, woodpiles, lawn furniture cushions) within 30 feet of structures. Keep gutters clean. Maintain a go-bag with N95 masks for smoke.\n\nIf evacuation is ordered, leave early. Roads close fast and traffic crashes are a major risk. If trapped, shelter in an unburned area such as a large clearing or paved lot, lie face down, and cover with non-synthetic clothing or material.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "USFS + Ready.gov + CalFire public guidance on wildfire preparedness, retrieved 2026-05-26.",
+      "content": "Before fire season:\n• Clear dry brush, leaves, woodpiles, and lawn-furniture cushions within 30 feet (\"defensible space\") of structures.\n• Keep gutters and roof clear of leaves.\n• Keep an N95 mask per person for smoke.\n• Identify multiple evacuation routes.\n\nDuring red-flag conditions:\n• Have a go-bag ready at the door.\n• Monitor official alerts. Don't rely on smoke or visible flames as your trigger — fast-moving fires arrive in minutes.\n• If asked to evacuate, leave immediately. Many wildfire deaths are people who waited.\n\nIf trapped:\n• Shelter in a large unburned area (paved lot, plowed field, large clearing).\n• Lie face down to stay below smoke and heat.\n• Cover with non-synthetic material (cotton, wool — synthetics melt).\n• Wet a cloth over nose and mouth.\n\nSmoke health: people with heart or lung conditions and children/elderly are at highest risk. Stay indoors with windows closed when AQI is bad. N95 helps; cloth masks don't filter PM2.5."
     },
     {
       "id": "disaster-tornado",
-      "title": "Tornado — warning signs and safe rooms",
+      "title": "Tornado — basements, interior rooms, no overpasses",
       "category": "disaster",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nWarning signs: dark greenish sky, large hail, low-lying cloud rotation, a roar like a freight train. Get to a basement, interior room on the lowest floor, or an interior closet/bathroom — away from windows.\n\nMobile homes are unsafe in tornadoes; leave for sturdier shelter even in a watch. If caught outside with no shelter, lie flat in a low spot and cover your head. Do not seek shelter under overpasses — wind can intensify there.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "NOAA NWS Storm Prediction Center + Ready.gov Tornadoes, retrieved 2026-05-26.",
+      "content": "Warning signs:\n• Dark, often greenish sky\n• Large hail\n• A loud roar like a freight train\n• Low-lying cloud rotation\n• A visible funnel (often the last sign)\n\nGet to shelter:\n• Best: a basement or storm cellar.\n• Next best: an interior room on the lowest floor — bathroom, closet, hallway. Away from windows.\n• Cover your head and neck. Put a mattress, helmet, or thick blanket over yourself.\n\nMobile homes are NOT safe in tornadoes. Leave for sturdier shelter even in a watch.\n\nIf caught outside with no shelter:\n• Lie flat in a ditch or low spot. Cover your head.\n• Do NOT shelter under overpasses — they channel and amplify wind.\n• Do NOT try to outrun a tornado in a car if traffic is heavy.\n\nWatch = conditions favor tornadoes. Be alert. Warning = tornado spotted or imminent. Take shelter NOW."
+    },
+    {
+      "id": "disaster-tsunami",
+      "title": "Tsunami — feel it, see it, hear it, GO",
+      "category": "disaster",
+      "tier": "core",
+      "sourceRef": "USGS + NOAA Pacific Tsunami Warning Center public guidance, retrieved 2026-05-26.",
+      "content": "Natural warning signs (you may have minutes, not hours):\n• Strong or long-duration earthquake near the coast — feel it, leave.\n• Sudden ocean recession — water sucked away from the shore — leave immediately.\n• A loud roar from the ocean.\n\nIf you feel/see/hear any of these on the coast, do NOT wait for an official warning. Go immediately to high ground (at least 100 feet elevation) or as far inland as you can. Run, walk, drive — whatever's fastest.\n\nOfficial warnings:\n• Tsunami Warning: tsunami is expected. Evacuate immediately.\n• Tsunami Advisory/Watch: be alert; follow local guidance.\n\nThe first wave is rarely the largest. Stay on high ground for hours until official all-clear. Subsequent waves can come 15 minutes to an hour apart and be worse.\n\nKnow your community's tsunami evacuation route signs. Practice it. In some places you have less than 10 minutes."
     },
     {
       "id": "disaster-winter",
-      "title": "Winter storm — shelter or go decisions",
+      "title": "Winter storm — shelter and CO safety",
       "category": "disaster",
       "tier": "extended",
-      "content": "[TEST FIXTURE — placeholder.]\n\nDuring a major winter storm, sheltering in place is usually safer than travel. Keep heat on and pipes insulated. Avoid carbon monoxide poisoning: never run generators, grills, or vehicle engines indoors or in attached garages.\n\nIf you must travel, keep a vehicle kit: blankets, food, water, shovel, sand, flashlight, and a charged phone. If stranded, stay with the car, run the engine briefly to warm up (open a window slightly and clear snow from the tailpipe), and make yourself visible to rescuers.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "NOAA NWS Winter Weather + CDC Carbon Monoxide guidance, retrieved 2026-05-26.",
+      "content": "During a major winter storm, sheltering in place is usually safer than travel.\n\nIn your home:\n• Keep heat on — let faucets drip slightly to prevent frozen pipes.\n• Insulate pipes along outside walls.\n• Stay hydrated and fed.\n\nCarbon monoxide is the #1 winter-storm killer indoors. NEVER run any of these inside (or in an attached garage, even with the door open):\n• Generators\n• Charcoal or gas grills\n• Camp stoves\n• Vehicle engines\n\nInstall battery-backed CO detectors on every level. If anyone feels headachy, dizzy, or nauseated, get outside into fresh air and call emergency services.\n\nIf you must travel:\n• Keep a vehicle kit: blankets, food, water, shovel, sand or kitty litter (for tire traction), flashlight, phone charger.\n• If stranded, stay with the car. Run the engine briefly to warm up but ONLY with a window cracked AND after clearing snow from the tailpipe.\n• Tie a bright cloth to the antenna to be visible."
+    },
+    {
+      "id": "disaster-volcanic",
+      "title": "Volcanic eruption — ash, lahar, and gases",
+      "category": "disaster",
+      "tier": "extended",
+      "sourceRef": "USGS Volcano Hazards Program, retrieved 2026-05-26.",
+      "content": "Three main hazards:\n\n1. Ashfall: fine glass-like particles. Damages lungs, eyes, machinery.\n• Stay indoors. Close windows and doors; tape gaps if needed.\n• Outside: N95 mask, goggles, long sleeves.\n• Do not drive through ash; it ruins engines and reduces visibility to near zero.\n• Brush ash off roofs — wet ash is heavy and can collapse roofs.\n\n2. Lahar (volcanic mudflow): fast-moving slurry of ash, water, rock. Can travel many miles down valleys.\n• Evacuate to higher ground perpendicular to the valley.\n• Bridges may be destroyed.\n\n3. Gases (especially CO2 and SO2): can pool in low areas and suffocate.\n• Avoid valleys, low spots, basements near active vents.\n\nFollow USGS Volcano Notification Service alerts. Have an evacuation route that does NOT follow a river valley."
+    },
+    {
+      "id": "disaster-pandemic",
+      "title": "Pandemic basics",
+      "category": "disaster",
+      "tier": "extended",
+      "sourceRef": "CDC public guidance on respiratory pandemics, retrieved 2026-05-26.",
+      "content": "A pandemic differs from acute disasters: long duration, distributed risk, sustained behavior change required.\n\nLayered protection (no single layer is perfect):\n• Vaccination per current public health guidance for the specific pathogen.\n• Hand hygiene: 20 seconds soap and water, or alcohol-based sanitizer.\n• Stay home when sick. Isolate per current guidance.\n• Mask use during high transmission, especially indoors and in crowded settings. N95/KN95 for higher protection.\n• Ventilation indoors: open windows, use HEPA air cleaners.\n• Reduce gatherings during peaks.\n\nSupplies to have on hand:\n• 2–4 weeks of food and water in case of supply disruption.\n• Routine medications: 30–90 day supply.\n• Thermometer, OTC fever reducers, hydration solutions.\n• Masks for the household.\n\nFollow guidance from CDC and your local public-health authority. Pandemic protocols change as evidence develops; ignore social-media rumors."
     }
   ]
 }
