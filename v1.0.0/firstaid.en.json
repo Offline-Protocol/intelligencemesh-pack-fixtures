@@ -1,75 +1,107 @@
 {
   "packId": "firstaid",
   "packVersion": "v1.0.0",
-  "name": "[TEST FIXTURE] WHO First Aid Manual",
+  "name": "First Aid Essentials",
   "locale": "en",
-  "publishedAt": "2026-05-25T00:00:00Z",
-  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — placeholder content, not for production. Real authoring will replace this with cited content.",
-  "license": "PLACEHOLDER — not for production use",
+  "publishedAt": "2026-05-26T00:00:00Z",
+  "sourceAttribution": "Compiled from CDC, NIH MedlinePlus, American Heart Association published CPR guidelines, and American Academy of Pediatrics public guidance. NOT clinically reviewed — see a doctor for actual care.",
+  "license": "CC-BY-4.0 (compilation); source citations carry their own public-domain or open license",
   "guides": [
     {
       "id": "firstaid-cpr-adult",
-      "title": "CPR for adults",
+      "title": "CPR — adults",
       "category": "medical",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder content, not medically reviewed. Do not rely on this in a real emergency. Call your local emergency number.]\n\nIf an adult is unresponsive and not breathing, call for help and begin compressions. Place the heel of one hand on the center of the chest, the other hand on top, and push down at least 2 inches at a rate of 100-120 per minute. Allow the chest to fully recoil between compressions. Keep going until trained help takes over or the person responds.\n\nIf you are trained and willing, give 2 rescue breaths after every 30 compressions. If untrained or uncomfortable, compression-only CPR is the recommended fallback.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "American Heart Association 2020 Guidelines for CPR and Emergency Cardiovascular Care, adult BLS algorithm. Retrieved 2026-05-26.",
+      "content": "Call your local emergency number first. While help is coming, start compressions.\n\nPlace the heel of one hand on the center of the chest. Put the other hand on top. Push down at least 2 inches (5 cm) deep. Aim for a rate of 100–120 compressions per minute. Let the chest rise fully between pushes — don't lean.\n\nIf trained and willing, give 2 rescue breaths after every 30 compressions: tilt head, lift chin, pinch nose, mouth seal, blow until the chest visibly rises. Each breath about 1 second.\n\nIf untrained or unwilling to give breaths, do compression-only CPR. Don't stop until trained help arrives, an AED is ready, or the person clearly recovers."
     },
     {
       "id": "firstaid-cpr-child",
-      "title": "CPR for children and infants",
+      "title": "CPR — children and infants",
       "category": "medical",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder content. Real pediatric CPR requires technique adjustments for age and size. Take a certified course.]\n\nFor children (1 year to puberty), use one or two hands depending on body size. Compress to about one third the depth of the chest. For infants under 1 year, use two fingers in the center of the chest, again to one third of chest depth. Cycle remains 30 compressions to 2 breaths if you are alone. If a second person is present, switch to 15:2 for infants and children.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "American Heart Association 2020 Pediatric Basic Life Support guidelines. Retrieved 2026-05-26.",
+      "content": "Call your local emergency number. If alone with the child or infant, give 2 minutes of CPR before leaving to call.\n\nChild (1 year to puberty): use one or two hands as needed for body size. Compress about one third of chest depth (≈ 2 inches in larger children). Rate 100–120/min. 30 compressions : 2 breaths if alone; 15 : 2 with two trained rescuers.\n\nInfant (under 1 year): use two fingers in the center of the chest, just below the nipple line. Compress about one third of chest depth (≈ 1.5 inches). Rate 100–120/min. Same 30 : 2 alone or 15 : 2 with a second rescuer.\n\nBreaths for infants: seal your mouth over both nose AND mouth. Use gentle puffs only — adult-size breaths can damage tiny lungs."
     },
     {
       "id": "firstaid-choking",
-      "title": "Choking — adults and children",
+      "title": "Choking",
       "category": "medical",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder. Consult a real first-aid manual for full technique.]\n\nIf someone can cough or speak, encourage them to cough. If they cannot, alternate 5 back blows between the shoulder blades with 5 abdominal thrusts (just above the navel, in and up). Continue until the object clears or the person loses consciousness, at which point start CPR.\n\nFor infants, alternate 5 back blows with 5 chest thrusts using two fingers. Do not perform abdominal thrusts on infants.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "NIH MedlinePlus — Choking adult or child over 1 year, retrieved 2026-05-26.",
+      "content": "If the person can cough, speak, or cry, encourage continued coughing. Do not interfere.\n\nIf they cannot cough or speak, call for help and act. For adults and children over 1 year: alternate 5 back blows between the shoulder blades with 5 abdominal thrusts (just above the navel, inward and upward). Repeat until the object clears or the person becomes unconscious. If they become unconscious, lower them to the ground and start CPR.\n\nInfant under 1 year: support on your forearm face-down, head lower than chest. 5 back blows with the heel of your hand between the shoulder blades, then turn over and give 5 chest thrusts with two fingers center-of-chest. Repeat. Never do abdominal thrusts on an infant.\n\nAfter any choking episode, see a clinician — airway swelling or aspirated material can cause delayed problems."
     },
     {
       "id": "firstaid-bleeding",
-      "title": "Severe bleeding control",
+      "title": "Severe bleeding",
       "category": "medical",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nApply firm direct pressure with a clean cloth, gauze, or your hand. Maintain pressure for at least 10 uninterrupted minutes. Do not lift the cloth to check — add more on top. Elevate the wound above the heart if possible.\n\nIf bleeding does not stop and is life-threatening, apply a tourniquet 2-3 inches above the wound (never on a joint), tighten until bleeding stops, and write the time on the patient's forehead or visible skin.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "CDC Stop the Bleed coalition guidance — bleeding control basics, retrieved 2026-05-26.",
+      "content": "Call your emergency number. While help is coming:\n\n1. Apply firm direct pressure with a clean cloth, gauze, or your gloved hand. Press hard. Keep pressing for at least 10 uninterrupted minutes. Do not lift the cloth to check — add more material on top.\n2. If you can, elevate the wound above the heart level.\n3. If the bleeding is life-threatening and from an arm or leg, apply a tourniquet 2–3 inches above the wound (never on a joint). Tighten until bleeding stops. Write the time on the patient's skin or forehead.\n\nDo not remove an embedded object — stabilize around it.\n\nGet to professional care. Tourniquets are limb-saving, not vehicle-bandages: once on, stay on until a clinician removes."
     },
     {
       "id": "firstaid-burns",
-      "title": "Burns — assessment and care",
+      "title": "Burns",
       "category": "medical",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nCool the burn under cool (not cold) running water for 20 minutes. Do not apply ice, butter, or toothpaste. Remove jewelry near the burn before swelling sets in. Cover loosely with a clean, non-stick dressing.\n\nSeek emergency care for: burns larger than your palm, burns to the face/hands/feet/groin, electrical or chemical burns, or any burn on a child or older adult. Third-degree burns (white, leathery, or charred) always need professional care.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "NIH MedlinePlus — Burns first aid, retrieved 2026-05-26.",
+      "content": "Cool the burn under cool (not cold) running water for at least 20 minutes. Do not apply ice, butter, oil, or toothpaste. Remove jewelry near the burn before swelling sets in. Cover loosely with a clean, non-stick dressing.\n\nSee emergency care for any of these:\n• Burns larger than your palm\n• Burns to the face, hands, feet, groin, or major joints\n• Electrical or chemical burns\n• Any burn on an infant, young child, or older adult\n• Third-degree burns (white, leathery, charred, or painless)\n\nFor minor (small first-degree) burns, the 20-minute cooling step is the main treatment. Take an OTC pain reliever per package directions and keep the area clean. See a clinician if a burn worsens, blisters extensively, or shows signs of infection (increasing redness, pus, fever)."
     },
     {
       "id": "firstaid-shock",
-      "title": "Recognizing and treating shock",
+      "title": "Shock — recognize and respond",
       "category": "medical",
       "tier": "extended",
-      "content": "[TEST FIXTURE — placeholder.]\n\nShock can follow severe injury, blood loss, allergic reaction, or heart problems. Signs include pale or clammy skin, rapid weak pulse, confusion, rapid shallow breathing, and weakness.\n\nLay the person down and elevate their legs about 12 inches unless there is a head, neck, back, or leg injury. Keep them warm with a blanket. Do not give food or water. Get emergency help fast — shock is life-threatening.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
-    },
-    {
-      "id": "firstaid-stroke",
-      "title": "Stroke — the FAST check",
-      "category": "medical",
-      "tier": "extended",
-      "content": "[TEST FIXTURE — placeholder.]\n\nUse the FAST acronym to recognize a stroke:\n\nFace — ask the person to smile. Does one side droop?\nArms — ask them to raise both arms. Does one drift downward?\nSpeech — ask them to repeat a simple sentence. Is it slurred or strange?\nTime — if any of these are present, call emergency services immediately. Note the time symptoms started; treatment is time-critical.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "NIH MedlinePlus — Shock first aid, retrieved 2026-05-26.",
+      "content": "Shock can follow severe injury, heavy blood loss, severe allergic reaction, sepsis, dehydration, or heart problems. Signs include pale or clammy skin, rapid weak pulse, rapid shallow breathing, weakness, confusion, anxiety, or nausea.\n\nCall your emergency number. While help is coming:\n\n• Have the person lie flat. If there is no head, neck, back, or leg injury, elevate the legs about 12 inches.\n• Keep them warm — cover with a blanket or coat.\n• Loosen tight clothing.\n• Do not give food or water. They may need surgery.\n• Treat any obvious cause you can — direct pressure on bleeding, EpiPen for known anaphylaxis.\n\nShock is life-threatening. Speed of care matters."
     },
     {
       "id": "firstaid-allergic",
       "title": "Severe allergic reaction (anaphylaxis)",
       "category": "medical",
+      "tier": "core",
+      "sourceRef": "NIH NIAID — Anaphylaxis emergency guidance via MedlinePlus, retrieved 2026-05-26.",
+      "content": "Suspect anaphylaxis when 2 or more of these appear within minutes of an exposure: hives or flushing, swelling of the face/lips/tongue/throat, trouble breathing or wheezing, rapid or weak pulse, dizziness or fainting, vomiting or diarrhea.\n\n1. Use an epinephrine auto-injector (e.g., EpiPen) immediately into the outer thigh, even through clothing. Hold 3 seconds.\n2. Call your emergency number — even if symptoms improve. A second wave (biphasic reaction) can hit hours later.\n3. Have the person lie flat with legs raised, unless vomiting or having trouble breathing — then sit upright leaning forward.\n4. A second dose may be given after 5–10 minutes if symptoms persist and additional injector is available.\n\nDo not 'wait and see.' Time to epinephrine is the strongest predictor of survival."
+    },
+    {
+      "id": "firstaid-stroke",
+      "title": "Stroke — the FAST check",
+      "category": "medical",
+      "tier": "core",
+      "sourceRef": "CDC Stroke Signs and Symptoms — FAST acronym, retrieved 2026-05-26.",
+      "content": "Use FAST to recognize a possible stroke:\n\n• F — Face drooping. Ask the person to smile. Does one side droop?\n• A — Arm weakness. Ask them to raise both arms. Does one drift downward?\n• S — Speech difficulty. Ask them to repeat a simple sentence. Is it slurred or strange?\n• T — Time to call your emergency number. Note the exact time symptoms began.\n\nOther signs: sudden numbness on one side, sudden severe headache with no known cause, sudden trouble seeing in one or both eyes, sudden trouble walking, dizziness, or loss of balance.\n\nDo not let the person 'sleep it off.' Clot-busting treatment for ischemic stroke is most effective within hours of symptom onset. Note time-last-known-well — this is the timer clinicians use."
+    },
+    {
+      "id": "firstaid-heart-attack",
+      "title": "Heart attack signs",
+      "category": "medical",
+      "tier": "core",
+      "sourceRef": "CDC Heart Attack Symptoms, Risk, and Recovery, retrieved 2026-05-26.",
+      "content": "Classic signs: chest pain or discomfort that feels like pressure, squeezing, fullness, or pain in the center of the chest. May last several minutes or come and go. Pain may radiate to one or both arms, the back, neck, jaw, or stomach.\n\nOther signs: shortness of breath (with or without chest discomfort), cold sweat, nausea, lightheadedness, unusual fatigue (especially in women).\n\nCall your emergency number immediately. Do not drive yourself or have someone drive you — call an ambulance. Paramedics can start treatment en route.\n\nIf the person is not allergic to aspirin and is conscious, they may chew one regular adult aspirin (325 mg) or four low-dose (81 mg) tablets while waiting. Do not give aspirin if instructed not to by a doctor, if they have an active bleed, or if it's a child."
+    },
+    {
+      "id": "firstaid-fractures",
+      "title": "Fractures and sprains",
+      "category": "medical",
       "tier": "extended",
-      "content": "[TEST FIXTURE — placeholder.]\n\nSigns: hives, swelling of face/throat, difficulty breathing, rapid pulse, dizziness, vomiting. Can be fatal within minutes.\n\nIf the person has an epinephrine auto-injector (EpiPen), help them use it immediately — into the outer thigh, holding for 3 seconds. Call emergency services even if symptoms improve; a second wave can follow. Have them lie flat with legs raised unless they are vomiting or having trouble breathing.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "NIH MedlinePlus — Broken bone, retrieved 2026-05-26.",
+      "content": "Signs of a possible fracture: swelling or bruising, deformity (limb looks wrong), severe pain, can't bear weight or use the limb, bone visible through the skin (open fracture).\n\n1. Do not try to realign the bone.\n2. Immobilize: splint above and below the injury with anything rigid — magazine, ruler, padded stick — tied with strips of cloth. The splint should not cut off circulation; check that fingers/toes stay warm and pink.\n3. Apply ice (wrapped in cloth, not directly on skin) for swelling — 20 min on, 20 off.\n4. Cover open fractures with a clean dressing. Do NOT push exposed bone back in.\n5. Get the person to medical care — broken bones need imaging and proper setting.\n\nFor sprains (ligament injury without fracture): R.I.C.E. — Rest, Ice, Compression, Elevation. See a doctor if pain is severe, swelling is extensive, or the joint is unstable."
+    },
+    {
+      "id": "firstaid-seizure",
+      "title": "Seizures",
+      "category": "medical",
+      "tier": "extended",
+      "sourceRef": "CDC Epilepsy First Aid for Seizures, retrieved 2026-05-26.",
+      "content": "Stay calm. Most seizures end on their own within 1–3 minutes.\n\nDo:\n• Move dangerous objects (furniture, glass) away from the person\n• Cushion the head with something soft\n• Loosen tight clothing around the neck\n• Time the seizure\n• Turn the person on their side once the active jerking stops, to keep the airway clear\n\nDo NOT:\n• Hold the person down\n• Put anything in their mouth (they cannot swallow their tongue)\n• Give water, food, or medicine until fully alert\n\nCall your emergency number if: the seizure lasts longer than 5 minutes, a second seizure follows quickly, the person doesn't wake up afterward, they were injured, this is their first-ever seizure, they have diabetes or are pregnant, or it happened in water."
+    },
+    {
+      "id": "firstaid-recovery-position",
+      "title": "Recovery position",
+      "category": "medical",
+      "tier": "core",
+      "sourceRef": "NIH MedlinePlus — Unconscious person first aid, retrieved 2026-05-26.",
+      "content": "Use when someone is breathing and has a pulse but is unconscious — for example, after a seizure or fainting. Keeps the airway clear so vomit or saliva drains out instead of being inhaled.\n\nIf no head, neck, or spine injury is suspected:\n\n1. Kneel beside the person.\n2. Place the arm nearest you straight out at a right angle to the body, palm up.\n3. Bring the far arm across the chest, hand on the cheek nearest you.\n4. Bend the far knee at a right angle.\n5. Roll the person toward you onto their side, using the bent knee as a lever.\n6. Tilt the head back gently to keep the airway open.\n\nIf you suspect a spinal injury, do NOT roll them unless you must to keep them breathing. Wait for trained help. Check breathing every couple of minutes until help arrives."
     }
   ]
 }

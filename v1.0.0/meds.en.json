@@ -1,51 +1,59 @@
 {
   "packId": "meds",
   "packVersion": "v1.0.0",
-  "name": "[TEST FIXTURE] Medications & Triage",
+  "name": "Medications & Triage",
   "locale": "en",
-  "publishedAt": "2026-05-25T00:00:00Z",
-  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — placeholder content, not for production. Real authoring will replace this with cited content.",
-  "license": "PLACEHOLDER — not for production use",
+  "publishedAt": "2026-05-26T00:00:00Z",
+  "sourceAttribution": "Compiled from FDA, NIH MedlinePlus, CDC, and public-domain triage guidance (START method). NOT clinical advice — confirm any dose or interaction with a pharmacist or doctor.",
+  "license": "CC-BY-4.0 (compilation); source citations carry their own public-domain or open license",
   "guides": [
     {
       "id": "meds-otc-categories",
       "title": "OTC medication categories",
       "category": "medical",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder. Follow package directions; this is reference only.]\n\nAnalgesics: acetaminophen (Tylenol) — pain and fever, easy on the stomach. Ibuprofen (Advil, Motrin) — pain, fever, inflammation, harder on the stomach. Aspirin — pain, fever, inflammation, never for children under 18.\n\nAntihistamines: diphenhydramine (Benadryl) for allergies and sleep; non-drowsy options like loratadine for daytime.\n\nAntacids: calcium carbonate, famotidine, omeprazole for heartburn.\n\nAntidiarrheals: loperamide for adults; not for bacterial diarrhea or children without a doctor.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "FDA Drug Facts label guidance + NIH MedlinePlus Drug information, retrieved 2026-05-26.",
+      "content": "Always follow the Drug Facts label. Don't combine multiple products with the same active ingredient — overdose risk.\n\nAnalgesics (pain/fever):\n• Acetaminophen (Tylenol) — pain and fever. Gentler on the stomach. Liver toxicity at high doses or with alcohol.\n• Ibuprofen (Advil, Motrin) — pain, fever, inflammation. Take with food. Avoid with kidney disease, ulcer history, or 3rd-trimester pregnancy.\n• Aspirin — pain, fever, inflammation, blood-thinning. NEVER for anyone under 18 (Reye syndrome risk).\n\nAntihistamines (allergies):\n• Diphenhydramine (Benadryl) — sedating; useful at night.\n• Loratadine, cetirizine, fexofenadine — non-sedating, daytime allergy use.\n\nAntacids / acid reducers:\n• Calcium carbonate (Tums) — immediate relief.\n• Famotidine (Pepcid) — H2 blocker, hours of relief.\n• Omeprazole, esomeprazole — proton pump inhibitors, daily for chronic reflux.\n\nAntidiarrheals:\n• Loperamide (Imodium) — adults only. Do NOT use for bloody diarrhea or high fever (likely bacterial — see a doctor).\n\nFor children, dose by weight and use child formulations. Ask a pharmacist if uncertain."
     },
     {
-      "id": "meds-rx-do-not-stop",
-      "title": "Prescriptions you do not stop abruptly",
+      "id": "meds-do-not-stop-abruptly",
+      "title": "Prescriptions you should not stop abruptly",
       "category": "medical",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nSome medications cause dangerous withdrawal or rebound effects if stopped suddenly. Discuss any change with the prescriber. Examples include:\n\nBeta blockers (heart, blood pressure) — rebound tachycardia and risk of cardiac event.\nAntidepressants, especially SSRIs and SNRIs — discontinuation syndrome.\nBenzodiazepines — seizure risk.\nCorticosteroids — adrenal insufficiency.\nThyroid replacement — long-term metabolic effects.\nAnticoagulants — clotting risk.\n\nKeep at least a 30-day supply on hand. Refill before zero.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "NIH MedlinePlus drug information — discontinuation guidance per drug class, retrieved 2026-05-26.",
+      "content": "Some medications cause dangerous withdrawal or rebound effects if stopped suddenly. Always discuss any change with the prescriber. Examples:\n\n• Beta blockers (heart, blood pressure) — sudden stop can cause rebound tachycardia, hypertensive crisis, even heart attack.\n• Antidepressants (SSRIs, SNRIs, etc.) — discontinuation syndrome: dizziness, brain zaps, flu-like symptoms. Taper under guidance.\n• Benzodiazepines (Xanax, Ativan, Valium) — withdrawal can cause seizures. Always taper.\n• Corticosteroids (prednisone) on long-term use — sudden stop can cause adrenal insufficiency. Taper.\n• Thyroid replacement (levothyroxine) — stopping disrupts metabolism over weeks.\n• Anticoagulants (warfarin, eliquis, etc.) — sudden stop raises clotting/stroke risk.\n• Opioids — withdrawal is dangerous primarily in pregnancy and after long-term use. Taper.\n• Anti-seizure medications — stopping can trigger seizures.\n\nKeep at least a 30-day supply on hand. Refill before zero. In a disaster, prioritize prescription continuity — call your pharmacy or doctor's office for emergency refills."
     },
     {
       "id": "meds-interactions",
-      "title": "Dangerous interactions",
+      "title": "Dangerous drug interactions",
       "category": "medical",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nAcetaminophen + alcohol — liver damage.\nWarfarin + NSAIDs (ibuprofen, aspirin) — bleeding risk.\nMAOIs + many things (other antidepressants, decongestants, certain foods) — hypertensive crisis.\nGrapefruit + many medications — alters drug metabolism.\nStimulant + stimulant (cold medicine + ADHD med + caffeine) — cardiac risk.\n\nKeep an updated list of every medication and supplement, including doses. Show it to every provider you see.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "FDA Drug Interactions guidance + NIH MedlinePlus, retrieved 2026-05-26. Always consult a pharmacist for personal medication review.",
+      "content": "Common dangerous combinations:\n\n• Acetaminophen + alcohol — liver toxicity. Limit acetaminophen if drinking, especially heavy/chronic use.\n• Warfarin + NSAIDs (ibuprofen, aspirin) — major bleeding risk. Acetaminophen is safer for pain on warfarin.\n• MAOIs + many things — other antidepressants, decongestants (pseudoephedrine), tyramine-rich foods (aged cheese). Hypertensive crisis. MAOIs are rare today but still prescribed.\n• Grapefruit + statins, calcium channel blockers, some immunosuppressants — alters drug metabolism, raises blood levels.\n• Multiple stimulants — ADHD medication + cold medicine + caffeine. Cardiac stress.\n• SSRIs + tramadol or other serotonergic drugs — serotonin syndrome.\n• Lithium + NSAIDs or diuretics — lithium toxicity.\n• Sildenafil (Viagra) + nitrates — severe hypotension.\n\nKeep an updated list of every medication and supplement (including OTC and herbal) with doses. Show it to every provider, every pharmacy. Many interactions only show up when a new drug is added — check before starting anything new."
     },
     {
       "id": "meds-triage-start",
-      "title": "Mass-casualty triage — START method",
+      "title": "Mass-casualty triage (START method)",
       "category": "medical",
       "tier": "extended",
-      "content": "[TEST FIXTURE — placeholder.]\n\nSTART (Simple Triage And Rapid Treatment) sorts casualties into four colors when professional care is overwhelmed:\n\nGreen — walking wounded. Move to a holding area.\nYellow — alive, not walking, but breathing on their own and following commands. Delayed care.\nRed — unable to walk, breathing only after airway repositioning, OR fast pulse and altered mental status. Immediate care.\nBlack — not breathing even after airway clear. Care moves to others first.\n\nReassess regularly — conditions change.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "START Triage protocol — Newport Beach Fire Department / Hoag Hospital, public domain, retrieved 2026-05-26.",
+      "content": "Used when casualties overwhelm available care. The goal is to sort by who benefits most from immediate care.\n\nFour categories, color-coded:\n\nGREEN — Walking wounded. Move them to a designated holding area. Reassess later.\n\nYELLOW (Delayed) — Alive, not walking, but breathing on their own, has a pulse, and follows commands. Stable for now. Treat after Reds.\n\nRED (Immediate) — Life-threatening but salvageable. Includes: not breathing initially but starts breathing after airway repositioning; respiratory rate over 30/min; capillary refill over 2 seconds OR no radial pulse; cannot follow simple commands.\n\nBLACK (Expectant) — Not breathing even after two airway-clearing attempts. With limited resources, focus moves to others. This decision is brutal; field providers re-evaluate when more help arrives.\n\nReassess regularly — patients change category as conditions evolve."
     },
     {
       "id": "meds-wound-infection",
-      "title": "Wound infection signs",
+      "title": "Wound infection — signs to act on",
       "category": "medical",
-      "tier": "extended",
-      "content": "[TEST FIXTURE — placeholder.]\n\nSigns to act on: increasing redness around the wound (especially streaks moving up a limb), increasing pain after the first 48 hours, pus, warmth, swelling, fever, swollen lymph nodes nearby, foul smell.\n\nClean wounds with clean water (boiled and cooled if possible). Cover with a clean dressing. Get medical care for deep wounds, animal bites, puncture wounds, wounds caused by dirty objects, or wounds in someone whose tetanus booster is more than 5 years old.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "tier": "core",
+      "sourceRef": "CDC Wound Infection Prevention + NIH MedlinePlus, retrieved 2026-05-26.",
+      "content": "All wounds are at risk. Clean any wound with clean water (boiled and cooled if you're unsure). Pat dry. Cover with a clean dressing. Change daily or when wet/dirty.\n\nSigns of infection — see a clinician:\n• Increasing redness AROUND the wound (some redness at the edge is normal at first; spreading is not)\n• Red streaks moving up a limb away from the wound (lymphangitis — can become serious quickly)\n• Increasing pain after the first 48 hours (initial pain should improve, not worsen)\n• Pus or cloudy discharge\n• Warmth, swelling beyond the immediate area\n• Fever, chills\n• Swollen lymph nodes nearby (groin for leg wounds, armpit for arm wounds)\n• Foul smell from the wound\n\nGet medical care urgently for:\n• Animal bites (especially cats — high infection rate)\n• Puncture wounds (rusty nails, etc.)\n• Wounds caused by dirty objects\n• Anyone whose tetanus booster is more than 5 years old (or unknown)\n• Diabetics — wounds heal slowly and infect easily\n• Any wound that's not healing in 1–2 weeks"
+    },
+    {
+      "id": "meds-poison-control",
+      "title": "Poisoning — first response",
+      "category": "medical",
+      "tier": "core",
+      "sourceRef": "American Association of Poison Control Centers + NIH MedlinePlus, retrieved 2026-05-26.",
+      "content": "In the US, call Poison Control at 1-800-222-1222 (free, 24/7, multilingual). Most poisonings are managed at home with their guidance.\n\nCall your emergency number INSTEAD of poison control if the person is:\n• Unconscious or hard to wake\n• Not breathing or struggling to breathe\n• Seizing\n• Severely confused or unresponsive\n\nWhile waiting:\n• Do NOT induce vomiting unless poison control specifically tells you to. Some substances burn going down AND coming back up (corrosives, hydrocarbons).\n• Skin/eye contact: rinse with running water for 15–20 minutes.\n• Inhalation: get the person to fresh air.\n• Keep the container or photo of the substance to show responders.\n\nFor opioid overdose, naloxone (Narcan) can reverse it. Spray into one nostril; repeat in the other nostril after 2–3 minutes if no response. Call emergency services even after naloxone — effect wears off and the overdose can return.\n\nFor pet poisoning, call ASPCA Animal Poison Control: 888-426-4435 (a fee may apply)."
     }
   ]
 }

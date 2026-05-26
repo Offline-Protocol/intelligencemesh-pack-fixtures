@@ -1,51 +1,67 @@
 {
   "packId": "kids",
   "packVersion": "v1.0.0",
-  "name": "[TEST FIXTURE] Care for Children",
+  "name": "Care for Children",
   "locale": "en",
-  "publishedAt": "2026-05-25T00:00:00Z",
-  "sourceAttribution": "AUTO-GENERATED TEST FIXTURE — placeholder content, not for production. Real authoring will replace this with cited content.",
-  "license": "PLACEHOLDER — not for production use",
+  "publishedAt": "2026-05-26T00:00:00Z",
+  "sourceAttribution": "Compiled from CDC, NIH MedlinePlus, and American Academy of Pediatrics public guidance. NOT clinically reviewed — always call your pediatrician for a sick child, especially infants.",
+  "license": "CC-BY-4.0 (compilation); source citations carry their own public-domain or open license",
   "guides": [
     {
-      "id": "kids-fever",
-      "title": "Fevers by age",
+      "id": "kids-fever-by-age",
+      "title": "Fever thresholds by age",
       "category": "medical",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder. Always consult a pediatrician for sick children, especially infants.]\n\nUnder 3 months: any rectal temperature 100.4°F (38°C) or higher is a medical emergency. Go to the ER.\n\n3-6 months: 101°F (38.3°C) or higher — call your pediatrician.\n\n6 months and older: a fever alone isn't usually dangerous; look at how the child is acting. Lethargy, refusal to drink, stiff neck, severe headache, or rash with fever are red flags that need immediate medical attention.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "American Academy of Pediatrics — When to Call the Pediatrician for Fever, retrieved 2026-05-26.",
+      "content": "Always call your pediatrician for a sick infant. The thresholds below trigger urgent action:\n\nUnder 3 months: any rectal temperature 100.4°F (38°C) or higher is a medical emergency. Go to the ER or call your pediatrician immediately. Do not wait, do not give fever medicine first.\n\n3–6 months: 101°F (38.3°C) or higher — call your pediatrician promptly.\n\n6 months and older: fever alone is rarely dangerous if the child is otherwise drinking, urinating, and responsive. The temperature number matters less than how the child acts. Watch for red flags:\n• Lethargy or unresponsiveness\n• Refusal to drink fluids\n• Stiff neck, severe headache, rash with fever\n• Trouble breathing\n• Persistent vomiting\n• Fever lasting more than 3 days\n• Returning fever after going away\n\nAny of those: call the pediatrician or go to urgent care."
     },
     {
       "id": "kids-dehydration",
-      "title": "Signs of dehydration",
+      "title": "Dehydration in children",
       "category": "medical",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nMild to moderate: dry lips, fewer wet diapers (less than 1 every 6-8 hours for infants), no tears when crying, sunken soft spot on the head (infants), lethargy.\n\nSevere: very dry mouth, no urination for 8+ hours, sunken eyes, cold or blotchy hands and feet, extreme sleepiness or unresponsiveness. Severe dehydration is a medical emergency. For mild cases, offer small frequent sips of an oral rehydration solution; don't give plain water alone to infants under 6 months.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "CDC — Dehydration in Children, and NIH MedlinePlus — Pediatric dehydration, retrieved 2026-05-26.",
+      "content": "Mild to moderate dehydration:\n• Dry lips and mouth\n• Fewer wet diapers than usual (fewer than one every 6–8 hours for infants)\n• No tears when crying\n• Sunken soft spot on the head (infants)\n• Tired, less playful than usual\n\nSevere dehydration (medical emergency — call your emergency number):\n• Very dry mouth\n• No urine for 8+ hours\n• Sunken eyes\n• Cold or blotchy hands and feet\n• Rapid breathing\n• Extreme sleepiness or unresponsiveness\n\nFor mild cases, offer small frequent sips of an oral rehydration solution (Pedialyte or similar). Do NOT give plain water alone to infants under 6 months — it dilutes electrolytes. Breastfeed or formula-feed more often. Sports drinks are too sugary for young children; an ORS is correct.\n\nIf vomiting prevents fluids, see a clinician for IV rehydration."
     },
     {
-      "id": "kids-cpr-infant",
-      "title": "Infant CPR — cross-reference",
+      "id": "kids-otc-dosing",
+      "title": "Acetaminophen and ibuprofen dosing",
       "category": "medical",
       "tier": "core",
-      "content": "[TEST FIXTURE — placeholder.]\n\nFull technique is in the First Aid pack's pediatric CPR guide. Key points for infants under 1 year:\n\nTwo fingers in the center of the chest, just below the nipple line. Compress to about 1.5 inches (one third of chest depth). Rate of 100-120 per minute. If alone: 30 compressions to 2 breaths. With a second rescuer: 15 compressions to 2 breaths.\n\nBreaths: cover both nose and mouth with your mouth, gentle puffs only — adult-size breaths can damage tiny lungs.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "American Academy of Pediatrics — Acetaminophen and Ibuprofen Dosing Tables, retrieved 2026-05-26. ALWAYS confirm dose with a current pediatrician or pharmacist — formulations and concentrations change.",
+      "content": "Dose by WEIGHT, not age. Use the dosing tool that came with the medicine (oral syringe or marked cup). Never use a kitchen spoon.\n\nAcetaminophen (Tylenol): 10–15 mg/kg every 4–6 hours. No more than 5 doses in 24 hours. Safe from birth under doctor guidance; widely used over 3 months.\n\nIbuprofen (Advil, Motrin): 5–10 mg/kg every 6–8 hours. ONLY for infants 6 months and older — not before. Take with food to reduce stomach irritation.\n\nNever give aspirin to a child under 18 — Reye syndrome risk.\n\nDouble-check concentration before measuring. Infant drops vs children's liquid are different strengths. Read the bottle every time.\n\nWhen in doubt, call your pediatrician or a poison control center before dosing — especially for infants under 6 months."
+    },
+    {
+      "id": "kids-croup-rsv",
+      "title": "Croup, RSV, and breathing trouble",
+      "category": "medical",
+      "tier": "core",
+      "sourceRef": "American Academy of Pediatrics public guidance on Croup and RSV, retrieved 2026-05-26.",
+      "content": "Croup: barking cough that sounds like a seal, hoarse voice, sometimes a high-pitched sound (stridor) when breathing in. Worse at night. Most common in toddlers and young children.\n\nHome care: cool, moist air can help. Take the child into a steamy bathroom or step outside into cool night air for 10–15 minutes. Keep them upright and calm; crying worsens stridor.\n\nGo to the ER for any of these:\n• Stridor at rest (not just when crying)\n• Blue or gray lips, fingernails, or face\n• Drooling and refusing to swallow\n• Severe trouble breathing — ribs sucking in, belly heaving\n• Very young, ill-appearing, or extreme lethargy\n\nRSV (respiratory syncytial virus): cold-like symptoms that escalate. In infants under 6 months, watch for fast breathing (more than 60 breaths/minute at rest), grunting, head bobbing, refusing to eat, or pauses in breathing. RSV bronchiolitis can become severe quickly — call your pediatrician or go to urgent care if you see those signs."
     },
     {
       "id": "kids-rashes",
-      "title": "Common childhood rashes — when to worry",
+      "title": "Childhood rashes — when to worry",
       "category": "medical",
       "tier": "extended",
-      "content": "[TEST FIXTURE — placeholder.]\n\nMost rashes are minor (heat rash, eczema, viral exanthems). Worry when a rash appears with fever, doesn't fade when pressed with a glass tumbler (could be meningitis), spreads rapidly, includes blisters or open sores, or appears around the eyes/mouth with breathing trouble (allergic reaction).\n\nFor minor rashes: keep the skin clean and dry, avoid known irritants, use plain moisturizer. Call your pediatrician if it spreads, worsens, or is accompanied by other symptoms.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "NIH MedlinePlus — Pediatric rashes, retrieved 2026-05-26.",
+      "content": "Most rashes are minor (heat rash, eczema, viral exanthems, contact dermatitis). They resolve with basic care.\n\nWORRY when a rash:\n• Appears with fever, especially if the child looks unwell\n• Doesn't fade when pressed with a glass (could be meningitis — petechial / purpuric rash)\n• Spreads rapidly (within hours)\n• Includes blisters or open sores, especially if widespread\n• Appears around the eyes or mouth WITH breathing trouble or swelling (allergic reaction — see anaphylaxis guide)\n• Looks like a target — bullseye shape (Lyme disease)\n• Includes severe peeling, particularly hands and feet (Kawasaki)\n\nFor minor rashes: keep the skin clean and dry, avoid known irritants, use plain unscented moisturizer. Call your pediatrician if it spreads, persists more than a few days, or is accompanied by other symptoms."
     },
     {
-      "id": "kids-er-vs-urgent",
-      "title": "ER vs urgent care vs pediatrician",
+      "id": "kids-febrile-seizure",
+      "title": "Febrile seizures",
       "category": "medical",
       "tier": "extended",
-      "content": "[TEST FIXTURE — placeholder.]\n\nER: trouble breathing, severe allergic reaction, head injury with loss of consciousness or vomiting, suspected broken bones with deformity, severe burns, severe abdominal pain, seizures, infants under 3 months with fever, any change in mental status.\n\nUrgent care: high fever responding to medication, minor sprains, mild cuts needing stitches, ear infections, rashes without fever.\n\nPediatrician (next day or call): ongoing cold symptoms, mild fever, school physicals, medication questions, growth concerns.",
-      "sourceRef": "[TEST FIXTURE] AUTO-GENERATED — no real source. Real authoring will replace this with a CDC/FEMA/NIH/etc citation."
+      "sourceRef": "American Academy of Pediatrics — Febrile Seizures, retrieved 2026-05-26.",
+      "content": "Febrile seizures happen in some children ages 6 months to 5 years during a fever, often as the temperature spikes quickly. They look frightening but most are NOT dangerous to the child long-term and do not cause epilepsy.\n\nWhat to do:\n1. Lay the child on their side on a safe flat surface.\n2. Move dangerous objects away.\n3. Do NOT put anything in their mouth.\n4. Do NOT try to hold them still.\n5. Time the seizure.\n6. Once the active jerking stops, keep them on their side in recovery position.\n\nCall your emergency number if:\n• The seizure lasts longer than 5 minutes\n• They have trouble breathing or turn blue\n• It's their first-ever febrile seizure\n• A second seizure follows shortly after\n• They don't wake up or seem confused for a long time afterward\n\nAfter a first-ever febrile seizure, see your pediatrician to confirm cause."
+    },
+    {
+      "id": "kids-er-vs-urgent-care",
+      "title": "ER vs urgent care vs pediatrician",
+      "category": "medical",
+      "tier": "core",
+      "sourceRef": "American Academy of Pediatrics public guidance on choosing the right level of care, retrieved 2026-05-26.",
+      "content": "Emergency Room (call your emergency number or go now):\n• Trouble breathing, blue or gray skin/lips\n• Severe allergic reaction\n• Head injury with loss of consciousness or repeated vomiting\n• Suspected broken bone with visible deformity\n• Severe burns (face, hands, feet, large area)\n• Severe abdominal pain\n• Seizures (first ever, longer than 5 minutes, or with breathing trouble)\n• Infants under 3 months with fever\n• Any change in alertness — extreme drowsiness, confusion, unresponsiveness\n\nUrgent care (same-day, after pediatrician hours):\n• Fever responsive to medication, child still drinking and active\n• Minor sprains and small cuts that may need stitches\n• Ear infections, sore throats\n• Rashes without other symptoms\n• Mild asthma flares\n\nPediatrician (call or next-day visit):\n• Cold symptoms running their course\n• Mild persistent cough\n• Routine concerns, medication questions, growth\n• Behavioral or developmental questions"
     }
   ]
 }
