@@ -4,7 +4,7 @@
   "name": "Emergency Signaling",
   "locale": "en",
   "publishedAt": "2026-05-26T00:00:00Z",
-  "sourceAttribution": "Compiled from ICAO ground-to-air signal standards, US Coast Guard distress guidance, ARRL emergency communications resources, and public-domain wilderness signaling references.",
+  "sourceAttribution": "Compiled from ICAO ground-to-air signal standards, US Coast Guard distress guidance, ARRL emergency communications resources, and public-domain wilderness signaling references. NOT a substitute for marine/aviation distress procedures issued by your local authority — follow theirs.",
   "license": "CC-BY-4.0 (compilation); source citations carry their own public-domain or open license",
   "guides": [
     {
@@ -45,7 +45,7 @@
       "category": "disaster",
       "tier": "extended",
       "sourceRef": "US Coast Guard + International Maritime Organization public guidance, retrieved 2026-05-26.",
-      "content": "VHF channel 16 (156.8 MHz) is the international maritime distress, safety, and calling frequency. Always monitored by coast guards worldwide.\n\nDistress call format:\n1. Mayday Mayday Mayday\n2. \"This is [vessel name]\" — say it three times\n3. Your position (GPS coordinates, or bearing+distance from a known point)\n4. Nature of distress (fire, sinking, medical emergency, etc.)\n5. Number of people on board\n6. Any other useful info (life raft, abandoning, drifting)\n7. \"Over.\"\n\nSpeak slowly and clearly. Repeat if no response in 30 seconds.\n\nEPIRB (Emergency Position-Indicating Radio Beacon): activates automatically when wet (or manually). Transmits your GPS location to satellites. Register it before you sail.\n\nFlares: red parachute flares are for distress. White flares are for collision avoidance. Hand-held orange smoke is for daytime visibility. Always know which is which — they're not interchangeable.\n\nDay shapes: a black ball over a diamond over a ball means a vessel in distress requiring assistance."
+      "content": "VHF channel 16 (156.8 MHz) is the international maritime distress, safety, and calling frequency. Always monitored by coast guards worldwide.\n\nDistress call format:\n1. Mayday Mayday Mayday\n2. \"This is\" then the vessel name three times (e.g. \"This is Sea Star, Sea Star, Sea Star\")\n3. Your position (GPS coordinates, or bearing+distance from a known point)\n4. Nature of distress (fire, sinking, medical emergency, etc.)\n5. Number of people on board\n6. Any other useful info (life raft, abandoning, drifting)\n7. \"Over.\"\n\nSpeak slowly and clearly. Repeat if no response in 30 seconds.\n\nEPIRB (Emergency Position-Indicating Radio Beacon): activates automatically when wet (or manually). Transmits your GPS location to satellites. Register it before you sail.\n\nFlares: red parachute flares are for distress. White flares are for collision avoidance. Hand-held orange smoke is for daytime visibility. Always know which is which — they're not interchangeable.\n\nDay shapes: a black ball over a diamond over a ball means a vessel in distress requiring assistance."
     }
   ]
 }

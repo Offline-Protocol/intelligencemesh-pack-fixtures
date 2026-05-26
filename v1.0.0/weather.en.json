@@ -4,7 +4,7 @@
   "name": "Weather & Climate",
   "locale": "en",
   "publishedAt": "2026-05-26T00:00:00Z",
-  "sourceAttribution": "Compiled from NOAA National Weather Service, CDC public-health guidance on heat and cold, and public-domain meteorology references.",
+  "sourceAttribution": "Compiled from NOAA National Weather Service, CDC public-health guidance on heat and cold, and public-domain meteorology references. NOT a substitute for official forecasts or local emergency guidance.",
   "license": "CC-BY-4.0 (compilation); source citations carry their own public-domain license",
   "guides": [
     {
